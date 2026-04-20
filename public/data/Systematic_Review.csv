@@ -1,0 +1,1370 @@
+Paper ID,Location ,Product ,Metric, Value
+122,Ethiopia,CHRIPS,CC,0.36
+126,"Central highlands of Abbay Basin, Ethiopia",IMERG-06,CC,0.85
+126,"Central highlands of Abbay Basin, Ethiopia",CHIRPSv2,CC,0.88
+126,"Central highlands of Abbay Basin, Ethiopia",PERSIANN-CCS,CC,0.78
+126,"Central highlands of Abbay Basin, Ethiopia",CMORPH,CC,0.86
+131,"Nasia River Basin, Ghana",RFE 2.0,CC,0.36
+26,Ruga,CHIRPS,CC,0.38
+26,Ruga,TAMSAT,CC,0.50
+26,Haik,CHIRPS,CC,0.40
+26,Haik,TAMSAT,CC,0.51
+26,Dessie,CHIRPS,CC,0.42
+26,Dessie,TAMSAT,CC,0.52
+26,Kutaber,CHIRPS,CC,0.43
+26,Kutaber,TAMSAT,CC,0.59
+134,"Central Africa (overall) — all data, full period",CHIRPS,CC,0.33
+134,"Central Africa (overall) — all data, full period",ARC,CC,0.42
+134,"Central Africa (overall) — all data, full period",TARCAT,CC,0.43
+134,"Central Africa (overall) — all data, full period",PERSIANN,CC,0.40
+134,"Central Africa (overall) — all data, full period",TMPA,CC,0.48
+134,"Central Africa (overall) — all data, full period",CMORPH,CC,0.45
+134,"Central Africa (overall) — all data, full period",TAPEER,CC,0.40
+134,"Central Africa (overall) — all data, 2011–14",CHIRPS,CC,0.34
+134,"Central Africa (overall) — all data, 2011–14",ARC,CC,0.60
+134,"Central Africa (overall) — all data, 2011–14",TARCAT,CC,0.45
+134,"Central Africa (overall) — all data, 2011–14",PERSIANN,CC,0.40
+134,"Central Africa (overall) — all data, 2011–14",CMORPH,CC,0.48
+134,"Central Africa (overall) — all data, 2011–14",TAPEER,CC,0.42
+134,"Central Africa (overall) — independent data, full period",CHIRPS,CC,0.32
+134,"Central Africa (overall) — independent data, full period",ARC,CC,0.30
+134,"Central Africa (overall) — independent data, full period",TARCAT,CC,0.45
+134,"Central Africa (overall) — independent data, full period",PERSIANN,CC,0.40
+134,"Central Africa (overall) — independent data, full period",TMPA,CC,0.48
+134,"Central Africa (overall) — independent data, full period",CMORPH,CC,0.46
+134,"Central Africa (overall) — independent data, full period",TAPEER,CC,0.41
+134,CAR,CHIRPS,CC,0.36
+134,CAR,ARC,CC,0.43
+134,CAR,TARCAT,CC,0.49
+134,CAR,PERSIANN,CC,0.44
+134,CAR,TMPA,CC,0.64
+134,CAR,CMORPH,CC,0.56
+134,Southern Congo-Brazzaville,CHIRPS,CC,0.30
+134,Southern Congo-Brazzaville,ARC,CC,0.35
+134,Southern Congo-Brazzaville,TARCAT,CC,0.38
+134,Southern Congo-Brazzaville,PERSIANN,CC,0.36
+134,Southern Congo-Brazzaville,TMPA,CC,0.58
+134,Southern Congo-Brazzaville,CMORPH,CC,0.54
+134,Southern Congo-Brazzaville,TAPEER,CC,0.50
+134,Central DRC,CHIRPS,CC,0.28
+134,Central DRC,ARC,CC,0.38
+134,Central DRC,TARCAT,CC,0.49
+134,Central DRC,PERSIANN,CC,0.40
+134,Eastern DRC,CHIRPS,CC,0.30
+134,Eastern DRC,ARC,CC,0.37
+134,Eastern DRC,TARCAT,CC,0.31
+134,Eastern DRC,PERSIANN,CC,0.35
+134,Eastern DRC,TMPA,CC,0.44
+134,Eastern DRC,CMORPH,CC,0.44
+134,Eastern DRC,TAPEER,CC,0.47
+134,POKOLA,CHIRPS,CC,0.39
+134,POKOLA,ARC,CC,0.53
+134,POKOLA,TARCAT,CC,0.57
+134,POKOLA,PERSIANN,CC,0.46
+134,POKOLA,CMORPH,CC,0.53
+134,POKOLA,TAPEER,CC,0.59
+134,MOKABI,CHIRPS,CC,0.44
+134,MOKABI,ARC,CC,0.58
+134,MOKABI,TARCAT,CC,0.67
+134,MOKABI,PERSIANN,CC,0.46
+134,MOKABI,CMORPH,CC,0.61
+134,MOKABI,TAPEER,CC,0.58
+134,TSHIVANGA,CHIRPS,CC,0.46
+134,TSHIVANGA,ARC,CC,0.46
+134,TSHIVANGA,TARCAT,CC,0.33
+134,TSHIVANGA,PERSIANN,CC,0.55
+134,TSHIVANGA,CMORPH,CC,0.56
+134,TSHIVANGA,TAPEER,CC,0.49
+134,MATANDA,CHIRPS,CC,0.33
+134,MATANDA,ARC,CC,0.40
+134,MATANDA,TARCAT,CC,0.28
+134,MATANDA,PERSIANN,CC,0.39
+134,MATANDA,CMORPH,CC,0.44
+134,MATANDA,TAPEER,CC,0.49
+134,IDJWI,CHIRPS,CC,0.44
+134,IDJWI,ARC,CC,0.51
+134,IDJWI,TARCAT,CC,0.44
+134,IDJWI,PERSIANN,CC,0.47
+134,IDJWI,CMORPH,CC,0.52
+134,IDJWI,TAPEER,CC,0.47
+134,BAKOUMBA,CHIRPS,CC,0.44
+134,BAKOUMBA,ARC,CC,0.53
+134,BAKOUMBA,TARCAT,CC,0.60
+134,BAKOUMBA,PERSIANN,CC,0.51
+134,BAKOUMBA,TMPA,CC,0.72
+134,BAKOUMBA,CMORPH,CC,0.59
+134,BAKOUMBA,TAPEER,CC,0.55
+134,KINSHASA/BINZA,CHIRPS,CC,0.49
+134,KINSHASA/BINZA,ARC,CC,0.71
+134,KINSHASA/BINZA,TARCAT,CC,0.58
+134,KINSHASA/BINZA,PERSIANN,CC,0.51
+134,KINSHASA/BINZA,TMPA,CC,0.72
+134,KINSHASA/BINZA,CMORPH,CC,0.61
+134,KINSHASA/BINZA,TAPEER,CC,0.57
+138,Ghana,CHIRPS,CC,0.48
+138,Ghana,SM2RAIN,CC,0.44
+138,Ghana,TAMSAT,CC,0.51
+138,Uganda,CHIRPS,CC,0.39
+138,Uganda,SM2RAIN,CC,0.40
+138,Uganda,TAMSAT,CC,0.34
+139,Benin 0.25° site,PrISM,CC,0.81
+139,Benin 0.25° site,CMORPH-Raw,CC,0.75
+139,Benin 0.25° site,TRMM-Raw,CC,0.65
+139,Benin 0.25° site,IMERG-Early,CC,0.78
+139,Benin 0.25° site,TAMSAT-025,CC,0.72
+139,Benin 0.25° site,SM2RAIN,CC,0.76
+139,Benin 0.25° site,CHIRPS,CC,0.77
+139,Benin 0.25° site,GPCC,CC,0.42
+139,Benin 0.25° site,CMORPH-Adj,CC,0.80
+139,Benin 0.25° site,TRMM-Adj,CC,0.70
+139,Benin 0.25° site,IMERG-Final,CC,0.80
+139,Niger 0.25° site,PrISM,CC,0.81
+139,Niger 0.25° site,CMORPH-Raw,CC,0.80
+139,Niger 0.25° site,TRMM-Raw,CC,0.75
+139,Niger 0.25° site,IMERG-Early,CC,0.63
+139,Niger 0.25° site,TAMSAT-025,CC,0.77
+139,Niger 0.25° site,SM2RAIN,CC,0.74
+139,Niger 0.25° site,CHIRPS,CC,0.70
+139,Niger 0.25° site,GPCC,CC,0.33
+139,Niger 0.25° site,CMORPH-Adj,CC,0.82
+139,Niger 0.25° site,TRMM-Adj,CC,0.75
+139,Niger 0.25° site,IMERG-Final,CC,0.60
+22,CKB (mean across stations),RFE,CC,0.40
+22,CKB (mean across stations),TRMM,CC,0.30
+22,CKB (mean across stations),CMORPH27,CC,0.30
+22,CKB (mean across stations),CMORPH8,CC,0.20
+23,UBNRB,ENACTS,CC,0.82
+23,UBNRB,CHIRPS2,CC,0.55
+23,UBNRB,IMERG6,CC,0.60
+23,UBNRB,MSWEP2.2,CC,0.60
+23,UBNRB,SM2RAIN-ASCAT1.1,CC,0.60
+141,Eastern highlands of Ethiopia,GSMaP_MVK+,CC,0.03
+141,Eastern highlands of Ethiopia,PERSIANN,CC,0.30
+141,Eastern highlands of Ethiopia,TRMM 3B42,CC,0.70
+25,West Africa,PERSIANN-RT,CC,0.50
+26,Ankavia watershed,IMERG,CC,0.63
+26,Ankavia watershed,RFEv2,CC,0.41
+26,Ankavia watershed,ARC2,CC,0.30
+32,UTB (grid-scale),CHIRPSv8,CC,0.58
+32,UTB (basin-scale),CHIRPSv8,CC,0.73
+32,UTB (grid-scale),EWEMBI,CC,0.53
+32,UTB (basin-scale),EWEMBI,CC,0.62
+146,Across Ethiopia,CHIRPS V2.0,CC,0.50
+146,Across Ethiopia,ERA5,CC,0.50
+93,Upper Tekeze–Atbara Basin,PERSIANN-CDR,CC,0.66
+93,Upper Tekeze–Atbara Basin,TAMSAT v3.1,CC,0.71
+93,Upper Tekeze–Atbara Basin,CMORPH-CDR,CC,0.72
+93,Upper Tekeze–Atbara Basin,IMERG v06,CC,0.75
+93,Upper Tekeze–Atbara Basin,OORA,CC,0.76
+93,Upper Tekeze–Atbara Basin,SMA,CC,0.77
+93,Upper Tekeze–Atbara Basin,MLQR,CC,0.79
+93,Upper Tekeze–Atbara Basin,BMAQ,CC,0.79
+93,Upper Tekeze–Atbara Basin,DVQR,CC,0.80
+95,Tropical AEZ,CHIRPS v2.0,CC,0.47
+95,Tropical AEZ,MSWEP v2.8,CC,0.54
+95,Tropical AEZ,TAMSAT v3.1,CC,0.29
+95,Subtropical AEZ,CHIRPS v2.0,CC,0.66
+95,Subtropical AEZ,MSWEP v2.8,CC,0.70
+95,Subtropical AEZ,TAMSAT v3.1,CC,0.70
+95,Temperate AEZ,CHIRPS v2.0,CC,0.60
+95,Temperate AEZ,MSWEP v2.8,CC,0.69
+95,Temperate AEZ,TAMSAT v3.1,CC,0.99
+95,Alpine AEZ,CHIRPS v2.0,CC,0.36
+95,Alpine AEZ,MSWEP v2.8,CC,0.49
+95,Alpine AEZ,TAMSAT v3.1,CC,0.59
+108,Djibouti,CHIRPS,CC,0.10
+108,Djibouti,IMERG,CC,0.13
+108,Djibouti,MSWEP,CC,0.16
+108,Djibouti,RFE,CC,0.09
+108,UBNB,CHIRPS,CC,0.45
+108,UBNB,IMERG,CC,0.49
+108,UBNB,ERA5,CC,0.34
+108,UBNB,ERA5-Land,CC,0.42
+150,Uganda and its neighbouring areas,IMERG-F_0.18,CC,0.41
+150,Uganda and its neighbouring areas,IMERG-F_0.258,CC,0.43
+150,Uganda and its neighbouring areas,IMERG-E,CC,0.41
+150,Uganda and its neighbouring areas,TMPA 3B42 v7,CC,0.35
+150,Uganda and its neighbouring areas,TMPA-RT 3B42RT v7,CC,0.35
+150,Uganda and its neighbouring areas,CHIRPS v2,CC,0.22
+150,Uganda and its neighbouring areas,MSWEPv2.2,CC,0.43
+150,Uganda and its neighbouring areas,MSWEPv2.8,CC,0.37
+69,Upper Blue Nile Basin,CMORPH,CC,0.52
+69,Upper Blue Nile Basin,TAMSAT,CC,0.51
+69,Upper Blue Nile Basin,SM2R-CCI,CC,0.50
+69,Upper Blue Nile Basin,3B42V7,CC,0.47
+69,Upper Blue Nile Basin,CFSR,CC,0.30
+42,Niger,CMORPH,CC,0.60
+42,Niger,CHIRPS,CC,0.51
+42,Niger,ARC2,CC,0.46
+42,Niger,TAMSAT,CC,0.47
+153,"Sudan, semi-humid Zone",PERSIANN-CCS,CC,0.05
+153,"Sudan, semi-dry Zone",PERSIANN-CCS,CC,0.00
+153,"Sudan, dry Zone",PERSIANN-CCS,CC,0.23
+153,"Sudan, semi-humid Zone",PERSIANN-CDR,CC,0.05
+153,"Sudan, semi-dry Zone",PERSIANN-CDR,CC,0.08
+153,"Sudan, dry Zone",PERSIANN-CDR,CC,0.15
+153,"Sudan, semi-humid Zone",CHIRPS V 2.0,CC,0.04
+153,"Sudan, semi-dry Zone",CHIRPS V 2.0,CC,0.01
+153,"Sudan, dry Zone",CHIRPS V 2.0,CC,0.16
+153,"Sudan, semi-humid Zone",GPCP-1DD,CC,0.03
+153,"Sudan, semi-dry Zone",GPCP-1DD,CC,-0.01
+153,"Sudan, dry Zone",GPCP-1DD,CC,0.20
+168,Ethiopia — Meki Catchment,CHIRP,CC,0.30
+168,Ethiopia — Katar Catchment,CHIRP,CC,40.00
+142,Ethiopia — Lake Tana Basin (northern part),CMORPH,CC,0.60
+142,Ethiopia — Lake Tana Basin (northeastern & eastern parts),CMORPH,CC,0.60
+142,Ethiopia — Lake Tana Basin (near south-west),CMORPH,CC,0.60
+142,Ethiopia — Lake Tana Basin (south shore & south part),CMORPH,CC,0.25
+73,Pra Basin of Ghana,CMORPH,CC,0.58
+73,Pra Basin of Ghana,TMPA 3B42,CC,0.48
+73,Pra Basin of Ghana,TMPA 3B42-RT,CC,0.50
+4,Northwest Ethiopia,ARC2,CC,0.36
+4,Northwest Ethiopia,TAMSAT3,CC,0.47
+4,Northwest Ethiopia,CHIRPS,CC,0.37
+4,Southeast Ethiopia,ARC2,CC,0.27
+4,Southeast Ethiopia,TAMSAT3,CC,0.34
+4,Southeast Ethiopia,CHIRPS,CC,0.27
+4,Western Tanzania,ARC2,CC,0.31
+4,Western Tanzania,TAMSAT3,CC,0.35
+4,Western Tanzania,CHIRPS,CC,0.29
+4,Eastern Tanzania,ARC2,CC,0.27
+4,Eastern Tanzania,TAMSAT3,CC,0.33
+4,Eastern Tanzania,CHIRPS,CC,0.24
+6,Northern Tunisia – Forestry Zone,TRMM 3B42 V7,CC,0.50
+7,Upper Tekeze–Atbara Basin,ARC2,CC,0.22
+7,Upper Tekeze–Atbara Basin,CHIRPS,CC,0.49
+7,Upper Tekeze–Atbara Basin,CMap,CC,0.21
+7,Upper Tekeze–Atbara Basin,CMorph,CC,0.19
+7,Upper Tekeze–Atbara Basin,GPCP,CC,0.15
+7,Upper Tekeze–Atbara Basin,PERSIANN,CC,0.28
+7,Upper Tekeze–Atbara Basin,RFEv2,CC,0.48
+7,Upper Tekeze–Atbara Basin,TRMM 3B42V7,CC,0.41
+10,Western branch of the East African Rift,TMPA ResV,CC,0.38
+10,Western branch of the East African Rift,TMPA RT,CC,0.37
+74,Kasempa (Zambia),MERRA air temperature,CC,0.82
+74,Central Zambia,ECMWF nowcast,CC,0.10
+74,Central Zambia,GFS 2-day forecast,CC,0.10
+74,Gilgel Abbey,Corrected CMORPH,CC,0.50
+77,Ethiopia — Gilgel Abbey Catchment,(not specified),CC,0.38
+13,Northern Algeria,MSG-SEVIRI,CC,0.87
+149,Africa,CHIRPS,CC,0.36
+149,Africa,TAMSAT,CC,0.32
+149,Africa,GSMaP,CC,0.44
+149,Africa,GSMaP_wGauge,CC,0.44
+149,East Africa,CHIRPS,CC,0.35
+149,East Africa,TAMSAT,CC,0.29
+149,East Africa,GSMaP,CC,0.40
+149,East Africa,GSMaP_wGauge,CC,0.42
+149,Southern Africa,CHIRPS,CC,0.38
+149,Southern Africa,TAMSAT,CC,0.36
+149,Southern Africa,GSMaP,CC,0.51
+149,Southern Africa,GSMaP_wGauge,CC,0.48
+149,West Africa,CHIRPS,CC,0.39
+149,West Africa,TAMSAT,CC,0.37
+149,West Africa,GSMaP,CC,0.47
+149,West Africa,GSMaP_wGauge,CC,0.46
+115,Burkina Faso,ARC2,CC,0.68
+115,Burkina Faso,RFE2,CC,0.68
+115,Burkina Faso,TAMSAT,CC,0.55
+115,Burkina Faso,CHIRPS,CC,0.45
+115,Burkina Faso,CCI,CC,0.45
+115,Burkina Faso,GPM,CC,0.45
+115,Burkina Faso,ASCAT,CC,0.45
+118,Gumera Watershed,CHIRPS-V2,CC,0.49
+118,Gumera Watershed,TAMSAT-V3.1,CC,0.59
+118,Gumera Watershed,PERSIANN-CDR,CC,0.53
+120,Wabi Shebelle River Basin,CHIRPSv2,CC,0.25
+120,Wabi Shebelle River Basin,PERSIANN_CDR,CC,0.30
+120,Wabi Shebelle River Basin,TAMSATv3,CC,0.33
+120,Wabi Shebelle River Basin,CHIRPS_D,CC,0.25
+120,Wabi Shebelle River Basin,TAMSAT_D,CC,0.33
+120,Wabi Shebelle River Basin,PERSIANN_CDR_D,CC,0.31
+20,Ethiopia — Lake Ziway Basin (Ketar),CFSR,CC,0.32
+20,Ethiopia — Lake Ziway Basin (Ketar),PERSIANN-CDR,CC,0.33
+20,Ethiopia — Lake Ziway Basin (Ketar),CHIRPS,CC,0.31
+20,Ethiopia — Lake Ziway Basin (Ketar),TRMM-3B42V7,CC,0.38
+20,Ethiopia — Lake Ziway Basin (Meki),CFSR,CC,0.30
+20,Ethiopia — Lake Ziway Basin (Meki),PERSIANN-CDR,CC,0.48
+20,Ethiopia — Lake Ziway Basin (Meki),CHIRPS,CC,0.42
+20,Ethiopia — Lake Ziway Basin (Meki),TRMM-3B42V7,CC,0.46
+78,Burkina Faso,IMERG,CC,0.85
+78,Burkina Faso,CMORPH,CC,0.50
+78,Burkina Faso,ERA5,CC,0.32
+78,Burkina Faso,MERRA-2,CC,0.40
+78,Burkina Faso,PDIR-Now,CC,0.26
+78,Burkina Faso,PERSIANN,CC,0.50
+78,Burkina Faso,PERSIANN-CCS,CC,0.46
+80,Eastern Zimbabwe,CHIRPS,CC,0.19
+80,Eastern Zimbabwe,CMORPH,CC,0.34
+80,Eastern Zimbabwe,PERSIANN-CCS,CC,0.26
+80,Eastern Zimbabwe,PDIR-Now,CC,0.32
+122,Ethiopia,CHIRPS,RMSE,8.61
+126,"Central highlands of Abbay Basin, Ethiopia",CMORPH,RMSE,57.20
+126,"Central highlands of Abbay Basin, Ethiopia",IMERG-06,RMSE,50.30
+126,"Central highlands of Abbay Basin, Ethiopia",CHIRPSv2,RMSE,64.10
+126,"Central highlands of Abbay Basin, Ethiopia",PERSIANN-CCS,RMSE,57.20
+26,Ruga,CHIRPS,RMSE,9.06
+26,Ruga,TAMSAT,RMSE,7.03
+26,Haik,CHIRPS,RMSE,9.03
+26,Haik,TAMSAT,RMSE,7.55
+26,Dessie,CHIRPS,RMSE,9.77
+26,Dessie,TAMSAT,RMSE,8.20
+26,Kutaber,CHIRPS,RMSE,9.24
+26,Kutaber,TAMSAT,RMSE,6.90
+138,Ghana,CHIRPS,RMSE,9.85
+138,Ghana,SM2RAIN,RMSE,10.20
+138,Ghana,TAMSAT,RMSE,9.83
+138,Uganda,CHIRPS,RMSE,8.28
+138,Uganda,SM2RAIN,RMSE,7.78
+138,Uganda,TAMSAT,RMSE,9.58
+139,Benin 0.25° site,PrISM,RMSE,4.40
+139,Benin 0.25° site,CMORPH-Raw,RMSE,5.60
+139,Benin 0.25° site,TRMM-Raw,RMSE,6.80
+139,Benin 0.25° site,IMERG-Early,RMSE,4.60
+139,Benin 0.25° site,TAMSAT-025,RMSE,5.00
+139,Benin 0.25° site,SM2RAIN,RMSE,4.60
+139,Benin 0.25° site,CHIRPS,RMSE,4.70
+139,Benin 0.25° site,GPCC,RMSE,6.80
+139,Benin 0.25° site,CMORPH-Adj,RMSE,4.30
+139,Benin 0.25° site,TRMM-Adj,RMSE,6.10
+139,Benin 0.25° site,IMERG-Final,RMSE,4.50
+139,Niger 0.25° site,PrISM,RMSE,3.70
+139,Niger 0.25° site,CMORPH-Raw,RMSE,6.70
+139,Niger 0.25° site,TRMM-Raw,RMSE,6.90
+139,Niger 0.25° site,IMERG-Early,RMSE,5.30
+139,Niger 0.25° site,TAMSAT-025,RMSE,3.90
+139,Niger 0.25° site,SM2RAIN,RMSE,4.10
+139,Niger 0.25° site,CHIRPS,RMSE,4.30
+139,Niger 0.25° site,GPCC,RMSE,5.90
+139,Niger 0.25° site,CMORPH-Adj,RMSE,4.30
+139,Niger 0.25° site,TRMM-Adj,RMSE,4.10
+139,Niger 0.25° site,IMERG-Final,RMSE,4.60
+22,CKB (mean across stations),RFE,RMSE,6.00
+22,CKB (mean across stations),TRMM,RMSE,7.00
+22,CKB (mean across stations),CMORPH27,RMSE,7.00
+22,CKB (mean across stations),CMORPH8,RMSE,7.50
+23,UBNRB,ENACTS,RMSE,0.94
+23,UBNRB,CHIRPS2,RMSE,0.85
+23,UBNRB,IMERG6,RMSE,0.82
+23,UBNRB,MSWEP2.2,RMSE,0.83
+23,UBNRB,SM2RAIN-ASCAT1.1,RMSE,0.59
+23,UBNRB,ENACTS,RMSE,0.71
+23,UBNRB,CHIRPS2,RMSE,0.14
+23,UBNRB,IMERG6,RMSE,0.53
+23,UBNRB,MSWEP2.2,RMSE,0.52
+23,UBNRB,SM2RAIN-ASCAT1.1,RMSE,0.76
+23,UBNRB,ENACTS,RMSE,0.89
+23,UBNRB,CHIRPS2,RMSE,0.57
+23,UBNRB,IMERG6,RMSE,0.75
+23,UBNRB,MSWEP2.2,RMSE,0.73
+23,UBNRB,SM2RAIN-ASCAT1.1,RMSE,0.97
+23,UBNRB,ENACTS,RMSE,0.92
+23,UBNRB,CHIRPS2,RMSE,0.38
+23,UBNRB,IMERG6,RMSE,0.74
+23,UBNRB,MSWEP2.2,RMSE,0.63
+23,UBNRB,SM2RAIN-ASCAT1.1,RMSE,0.17
+23,UBNRB,ENACTS,RMSE,0.80
+23,UBNRB,CHIRPS2,RMSE,0.03
+23,UBNRB,IMERG6,RMSE,0.41
+23,UBNRB,MSWEP2.2,RMSE,0.19
+23,UBNRB,SM2RAIN-ASCAT1.1,RMSE,0.00
+141,Eastern highlands of Ethiopia,GSMaP_MVK+,RMSE,2.88
+141,Eastern highlands of Ethiopia,PERSIANN,RMSE,2.77
+141,Eastern highlands of Ethiopia,TRMM 3B42,RMSE,2.78
+26,Ankavia watershed,IMERG,RMSE,12.00
+26,Ankavia watershed,RFEv2,RMSE,15.00
+26,Ankavia watershed,ARC2,RMSE,16.00
+93,Upper Tekeze–Atbara Basin,PERSIANN-CDR,RMSE,3.94
+93,Upper Tekeze–Atbara Basin,TAMSAT v3.1,RMSE,4.07
+93,Upper Tekeze–Atbara Basin,CMORPH-CDR,RMSE,3.99
+93,Upper Tekeze–Atbara Basin,IMERG v06,RMSE,3.89
+93,Upper Tekeze–Atbara Basin,OORA,RMSE,3.26
+93,Upper Tekeze–Atbara Basin,SMA,RMSE,3.31
+93,Upper Tekeze–Atbara Basin,MLQR,RMSE,3.12
+93,Upper Tekeze–Atbara Basin,BMAQ,RMSE,2.85
+93,Upper Tekeze–Atbara Basin,DVQR,RMSE,2.86
+100,Nawuni station,(not specified),RMSE,139.00
+100,Dapola station,(not specified),RMSE,113.00
+104,Djibouti,CHIRPS,RMSE,6.23
+104,Djibouti,IMERG,RMSE,6.49
+104,Djibouti,MSWEP,RMSE,6.07
+104,Djibouti,RFE,RMSE,7.47
+108,UBNB,CHIRPS,RMSE,8.32
+108,UBNB,IMERG,RMSE,7.59
+108,UBNB,ERA5,RMSE,9.47
+108,UBNB,ERA5-Land,RMSE,10.98
+150,Uganda and its neighbouring areas,IMERG-F_0.18,RMSE,12.40
+150,Uganda and its neighbouring areas,IMERG-F_0.258,RMSE,11.80
+150,Uganda and its neighbouring areas,IMERG-E,RMSE,12.50
+150,Uganda and its neighbouring areas,TMPA 3B42 v7,RMSE,12.90
+150,Uganda and its neighbouring areas,TMPA-RT 3B42RT v7,RMSE,12.60
+150,Uganda and its neighbouring areas,CHIRPS v2,RMSE,13.00
+150,Uganda and its neighbouring areas,MSWEPv2.2,RMSE,12.00
+150,Uganda and its neighbouring areas,MSWEPv2.8,RMSE,11.80
+69,Whole UBN Basin,TAMSAT,RMSE,6.80
+69,Whole UBN Basin,SM2R-CCI,RMSE,6.80
+69,Whole UBN Basin,CMORPH,RMSE,7.30
+69,Whole UBN Basin,3B42V7,RMSE,7.50
+69,Whole UBN Basin,CFSR,RMSE,8.90
+69,Highlands (Lake Tana watershed),CFSR,RMSE,6.20
+69,Highlands (Lake Tana watershed),3B42V7,RMSE,4.00
+42,Niger,CHIRPS,RMSE,1.00
+42,Niger,ARC2,RMSE,1.20
+42,Niger,TAMSAT,RMSE,1.20
+42,Niger,CMORPH,RMSE,2.30
+153,Sudan — semi-humid Zone,PERSIANN-CCS,RMSE,2.31
+153,Sudan — semi-dry Zone,PERSIANN-CCS,RMSE,4.48
+153,Sudan — dry Zone,PERSIANN-CCS,RMSE,1.99
+153,Sudan — semi-humid Zone,PERSIANN-CDR,RMSE,1.51
+153,Sudan — semi-dry Zone,PERSIANN-CDR,RMSE,2.28
+153,Sudan — dry Zone,PERSIANN-CDR,RMSE,1.33
+153,Sudan — semi-humid Zone,CHIRPS V 2.0,RMSE,1.48
+153,Sudan — semi-dry Zone,CHIRPS V 2.0,RMSE,2.31
+153,Sudan — dry Zone,CHIRPS V 2.0,RMSE,1.26
+153,Sudan — semi-humid Zone,GPCP-1DD,RMSE,1.67
+153,Sudan — semi-dry Zone,GPCP-1DD,RMSE,2.65
+153,Sudan — dry Zone,GPCP-1DD,RMSE,1.47
+168,Ethiopia — Meki Catchment,CHIRP,RMSE,7.50
+168,Ethiopia — Katar Catchment,CHIRP,RMSE,6.70
+168,South Africa,CHIRPS v2,RMSE,10.00
+101,,3B42,RMSE,52.43
+101,,3B42RT,RMSE,51.67
+101,,CMORPH,RMSE,35.93
+101,,Gauge,RMSE,34.31
+101,,3B42,RMSE,45.38
+101,,3B42RT,RMSE,42.65
+101,,CMORPH,RMSE,38.44
+101,,Gauge,RMSE,36.83
+101,,3B42,RMSE,44.26
+101,,3B42RT,RMSE,41.25
+101,,CMORPH,RMSE,38.09
+101,,Gauge,RMSE,36.48
+101,,Fusion,RMSE,32.62
+101,,Fusion,RMSE,35.66
+101,,Fusion,RMSE,34.68
+7,Upper Tekeze–Atbara Basin,ARC2,RMSE,111.00
+7,Upper Tekeze–Atbara Basin,CHIRPS,RMSE,36.00
+7,Upper Tekeze–Atbara Basin,CMap,RMSE,60.00
+7,Upper Tekeze–Atbara Basin,CMorph,RMSE,42.00
+7,Upper Tekeze–Atbara Basin,GPCP,RMSE,89.00
+7,Upper Tekeze–Atbara Basin,PERSIANN,RMSE,48.00
+7,Upper Tekeze–Atbara Basin,RFEv2,RMSE,50.00
+7,Upper Tekeze–Atbara Basin,TRMM 3B42V7,RMSE,25.00
+74,Gilgel Abbey,Corrected CMORPH,RMSE,8.00
+77,Ethiopia — Gilgel Abbey Catchment,(not specified),RMSE,575.00
+149,Africa,CHIRPS,RMSE,10.45
+149,Africa,TAMSAT,RMSE,10.01
+149,Africa,GSMaP,RMSE,10.25
+149,Africa,GSMaP_wGauge,RMSE,9.31
+149,East Africa,CHIRPS,RMSE,11.50
+149,East Africa,TAMSAT,RMSE,10.68
+149,East Africa,GSMaP,RMSE,10.36
+149,East Africa,GSMaP_wGauge,RMSE,9.51
+149,Southern Africa,CHIRPS,RMSE,10.24
+149,Southern Africa,TAMSAT,RMSE,10.17
+149,Southern Africa,GSMaP,RMSE,9.71
+149,Southern Africa,GSMaP_wGauge,RMSE,9.67
+149,West Africa,CHIRPS,RMSE,9.36
+149,West Africa,TAMSAT,RMSE,9.27
+149,West Africa,GSMaP,RMSE,10.27
+149,West Africa,GSMaP_wGauge,RMSE,9.03
+115,Burkina Faso,ARC2,RMSE,6.00
+115,Burkina Faso,RFE2,RMSE,6.00
+115,Burkina Faso,TAMSAT,RMSE,7.50
+115,Burkina Faso,CHIRPS,RMSE,7.50
+115,Burkina Faso,CCI,RMSE,7.50
+115,Burkina Faso,GPM,RMSE,7.50
+115,Burkina Faso,ASCAT,RMSE,7.50
+120,Wabi Shebelle River Basin,CHIRPSv2,RMSE,8.30
+120,Wabi Shebelle River Basin,PERSIANN_CDR,RMSE,7.18
+120,Wabi Shebelle River Basin,TAMSATv3,RMSE,6.95
+120,Wabi Shebelle River Basin,CHIRPS_D,RMSE,8.14
+120,Wabi Shebelle River Basin,TAMSAT_D,RMSE,6.93
+120,Wabi Shebelle River Basin,PERSIANN_CDR_D,RMSE,7.03
+120,Ethiopia — Lake Ziway Basin (Ketar),CFSR,RMSE,32.75
+120,Ethiopia — Lake Ziway Basin (Ketar),PERSIANN-CDR,RMSE,33.02
+120,Ethiopia — Lake Ziway Basin (Ketar),CHIRPS,RMSE,34.85
+120,Ethiopia — Lake Ziway Basin (Ketar),TRMM-3B42V7,RMSE,30.44
+120,Ethiopia — Lake Ziway Basin (Meki),CFSR,RMSE,26.96
+120,Ethiopia — Lake Ziway Basin (Meki),PERSIANN-CDR,RMSE,27.00
+120,Ethiopia — Lake Ziway Basin (Meki),CHIRPS,RMSE,31.28
+120,Ethiopia — Lake Ziway Basin (Meki),TRMM-3B42V7,RMSE,27.74
+78,Burkina Faso,IMERG,RMSE,8.58
+78,Burkina Faso,CMORPH,RMSE,18.06
+78,Burkina Faso,ERA5,RMSE,24.05
+78,Burkina Faso,MERRA-2,RMSE,33.18
+78,Burkina Faso,PDIR-Now,RMSE,33.80
+78,Burkina Faso,PERSIANN,RMSE,19.64
+78,Burkina Faso,PERSIANN-CCS,RMSE,20.61
+13,Northern Algeria,MSG-SEVIRI,RMSE,102.06
+80,Eastern Zimbabwe,CHIRPS,RMSE,12.60
+80,Eastern Zimbabwe,CMORPH,RMSE,13.80
+80,Eastern Zimbabwe,PERSIANN-CCS,RMSE,18.80
+80,Eastern Zimbabwe,PDIR-Now,RMSE,13.90
+126,"Central highlands of Abbay Basin, Ethiopia",CMORPH,POD,0.77
+126,"Central highlands of Abbay Basin, Ethiopia",IMERG-06,POD,0.73
+126,"Central highlands of Abbay Basin, Ethiopia",PERSIANN-CCS,POD,0.67
+126,"Central highlands of Abbay Basin, Ethiopia",CHIRPSv2,POD,0.55
+130,Ethiopia — Beles Basin (Highland),CHIRPS,POD,0.67
+130,Ethiopia — Beles Basin (Lowland),CHIRPS,POD,0.72
+26,Ruga,CHIRPS,POD,0.40
+26,Ruga,TAMSAT,POD,0.57
+26,Haik,CHIRPS,POD,0.40
+26,Haik,TAMSAT,POD,0.56
+26,Dessie,CHIRPS,POD,0.41
+26,Dessie,TAMSAT,POD,0.59
+26,Kutaber,CHIRPS,POD,0.41
+26,Kutaber,TAMSAT,POD,0.60
+134,POKOLA,CHIRPS,POD,0.69
+134,POKOLA,ARC,POD,0.79
+134,POKOLA,TARCAT,POD,0.70
+134,POKOLA,PERSIANN,POD,0.89
+134,POKOLA,CMORPH,POD,0.79
+134,POKOLA,TAPEER,POD,0.91
+134,MOKABI,CHIRPS,POD,0.76
+134,MOKABI,ARC,POD,0.81
+134,MOKABI,TARCAT,POD,0.74
+134,MOKABI,PERSIANN,POD,0.91
+134,MOKABI,CMORPH,POD,0.86
+134,MOKABI,TAPEER,POD,0.93
+134,TSHIVANGA,CHIRPS,POD,0.70
+134,TSHIVANGA,ARC,POD,0.76
+134,TSHIVANGA,TARCAT,POD,0.52
+134,TSHIVANGA,PERSIANN,POD,0.93
+134,TSHIVANGA,CMORPH,POD,0.77
+134,TSHIVANGA,TAPEER,POD,0.99
+134,MATANDA,CHIRPS,POD,0.62
+134,MATANDA,ARC,POD,0.73
+134,MATANDA,TARCAT,POD,0.54
+134,MATANDA,PERSIANN,POD,0.90
+134,MATANDA,CMORPH,POD,0.74
+134,MATANDA,TAPEER,POD,0.97
+134,IDJWI,CHIRPS,POD,0.66
+134,IDJWI,ARC,POD,0.76
+134,IDJWI,TARCAT,POD,0.57
+134,IDJWI,PERSIANN,POD,0.83
+134,IDJWI,CMORPH,POD,0.76
+134,IDJWI,TAPEER,POD,0.98
+134,BAKOUMBA,CHIRPS,POD,0.73
+134,BAKOUMBA,ARC,POD,0.79
+134,BAKOUMBA,TARCAT,POD,0.69
+134,BAKOUMBA,PERSIANN,POD,0.90
+134,BAKOUMBA,TMPA,POD,0.86
+134,BAKOUMBA,CMORPH,POD,0.83
+134,BAKOUMBA,TAPEER,POD,0.89
+134,KINSHASA/BINZA,CHIRPS,POD,0.74
+134,KINSHASA/BINZA,ARC,POD,0.88
+134,KINSHASA/BINZA,TARCAT,POD,0.68
+134,KINSHASA/BINZA,PERSIANN,POD,0.91
+134,KINSHASA/BINZA,TMPA,POD,0.85
+134,KINSHASA/BINZA,CMORPH,POD,0.83
+134,KINSHASA/BINZA,TAPEER,POD,0.88
+22,CKB (mean across stations),RFE,POD,0.75
+22,CKB (mean across stations),TRMM,POD,0.60
+22,CKB (mean across stations),CMORPH27,POD,0.55
+22,CKB (mean across stations),CMORPH8,POD,0.45
+141,Eastern highlands of Ethiopia,GSMaP_MVK+,POD,0.20
+141,Eastern highlands of Ethiopia,PERSIANN,POD,0.36
+141,Eastern highlands of Ethiopia,TRMM 3B42,POD,0.89
+26,Ankavia watershed,ERA5,POD,1.00
+26,Ankavia watershed,ARC2,POD,0.55
+26,Ankavia watershed,IMERG,POD,0.55
+26,Ankavia watershed,RFEv2,POD,0.55
+26,Ankavia watershed,CHIRPS,POD,0.55
+31,"Lake Victoria basin, Kenya",MSWEP,POD,0.90
+31,"Lake Victoria basin, Kenya",MSWEP,POD,0.80
+31,"Lake Victoria basin, Kenya",RFE2,POD,0.95
+31,"Lake Victoria basin, Kenya",RFE2,POD,0.85
+146,Across Ethiopia,CHIRPS V2.0,POD,0.75
+146,Across Ethiopia,CHIRPS V2.0,POD,0.62
+146,Most regions of Ethiopia,ERA5,POD,0.60
+95,Tropical AEZ,CHIRPS v2.0,POD,0.71
+95,Tropical AEZ,MSWEP v2.8,POD,0.72
+95,Tropical AEZ,TAMSAT v3.1,POD,0.70
+95,Subtropical AEZ,CHIRPS v2.0,POD,0.89
+95,Subtropical AEZ,MSWEP v2.8,POD,0.90
+95,Subtropical AEZ,TAMSAT v3.1,POD,0.92
+95,Temperate AEZ,CHIRPS v2.0,POD,0.74
+95,Temperate AEZ,MSWEP v2.8,POD,0.81
+95,Temperate AEZ,TAMSAT v3.1,POD,0.85
+95,Alpine AEZ,CHIRPS v2.0,POD,0.67
+95,Alpine AEZ,MSWEP v2.8,POD,0.60
+95,Alpine AEZ,TAMSAT v3.1,POD,0.70
+104,Djibouti,CHIRPS,POD,0.48
+104,Djibouti,IMERG,POD,0.59
+104,Djibouti,MSWEP,POD,0.73
+104,Djibouti,RFE,POD,0.52
+150,Uganda and its neighbouring areas,IMERG-F_0.18,POD,0.88
+150,Uganda and its neighbouring areas,IMERG-F_0.258,POD,0.93
+150,Uganda and its neighbouring areas,IMERG-E,POD,0.94
+150,Uganda and its neighbouring areas,TMPA 3B42 v7,POD,0.76
+150,Uganda and its neighbouring areas,TMPA-RT 3B42RT v7,POD,0.75
+150,Uganda and its neighbouring areas,CHIRPS v2,POD,0.77
+150,Uganda and its neighbouring areas,MSWEPv2.2,POD,0.88
+150,Uganda and its neighbouring areas,MSWEPv2.8,POD,0.97
+42,Niger,TAMSAT,POD,0.88
+42,Niger,CMORPH,POD,0.80
+42,Niger,CHIRPS,POD,0.75
+42,Niger,ARC2,POD,0.70
+168,Ethiopia — Meki Catchment,CHIRP,POD,0.60
+168,Ethiopia — Katar Catchment,CHIRP,POD,0.62
+4,Northwest Ethiopia,ARC2,POD,0.55
+4,Northwest Ethiopia,TAMSAT3,POD,0.77
+4,Northwest Ethiopia,CHIRPS,POD,0.52
+4,Southeast Ethiopia,ARC2,POD,0.42
+4,Southeast Ethiopia,TAMSAT3,POD,0.65
+4,Southeast Ethiopia,CHIRPS,POD,0.40
+4,Western Tanzania (interior),ARC2,POD,0.59
+4,Western Tanzania (interior),TAMSAT3,POD,0.66
+4,Western Tanzania (interior),CHIRPS,POD,0.57
+4,Eastern Tanzania (coast),ARC2,POD,0.30
+4,Eastern Tanzania (coast),TAMSAT3,POD,0.41
+4,Eastern Tanzania (coast),CHIRPS,POD,0.27
+6,Northern Tunisia – Forestry Zone,TRMM 3B42 V7,POD,0.96
+6,Northern Tunisia – Whole region,TRMM 3B42 V7,POD,0.96
+10,Western branch of the East African Rift,TMPA ResV,POD,0.64
+10,Western branch of the East African Rift,TMPA RT,POD,0.63
+77,Ethiopia — Gilgel Abbey Catchment,(not specified),POD,0.91
+149,Africa,CHIRPS,POD,0.46
+149,Africa,TAMSAT,POD,0.54
+149,Africa,GSMaP,POD,0.67
+149,Africa,GSMaP_wGauge,POD,0.72
+149,East Africa,CHIRPS,POD,0.42
+149,East Africa,TAMSAT,POD,0.47
+149,East Africa,GSMaP,POD,0.67
+149,East Africa,GSMaP_wGauge,POD,0.75
+149,Southern Africa,CHIRPS,POD,0.44
+149,Southern Africa,TAMSAT,POD,0.45
+149,Southern Africa,GSMaP,POD,0.62
+149,Southern Africa,GSMaP_wGauge,POD,0.63
+149,West Africa,CHIRPS,POD,0.53
+149,West Africa,TAMSAT,POD,0.65
+149,West Africa,GSMaP,POD,0.70
+149,West Africa,GSMaP_wGauge,POD,0.71
+115,Burkina Faso,ARC2,Relative performance,1.00
+115,Burkina Faso,RFE2,Relative performance,1.00
+115,Burkina Faso,CHIRPS,Pearson correlation,0.60
+115,Burkina Faso,CCI,Relative performance,3.00
+115,Burkina Faso,GPM,Relative performance,4.00
+115,Burkina Faso,ASCAT,Relative performance,5.00
+118,Gumera Watershed,CHIRPS-V2,POD,0.92
+118,Gumera Watershed,TAMSAT-V3.1,POD,0.92
+118,Gumera Watershed,PERSIANN-CDR,POD,0.94
+120,Wabi Shebelle River Basin,CHIRPSv2,POD,0.33
+120,Wabi Shebelle River Basin,PERSIANN_CDR,POD,0.68
+120,Wabi Shebelle River Basin,TAMSATv3,POD,0.57
+120,Wabi Shebelle River Basin,CHIRPS_D,POD,0.36
+120,Wabi Shebelle River Basin,TAMSAT_D,POD,0.58
+120,Wabi Shebelle River Basin,PERSIANN_CDR_D,POD,0.69
+20,Ethiopia — Lake Ziway Basin (Ketar),CFSR,POD,0.87
+20,Ethiopia — Lake Ziway Basin (Ketar),PERSIANN-CDR,POD,0.89
+20,Ethiopia — Lake Ziway Basin (Ketar),CHIRPS,POD,0.72
+20,Ethiopia — Lake Ziway Basin (Ketar),TRMM-3B42V7,POD,0.94
+20,Ethiopia — Lake Ziway Basin (Meki),CFSR,POD,0.71
+20,Ethiopia — Lake Ziway Basin (Meki),PERSIANN-CDR,POD,0.89
+20,Ethiopia — Lake Ziway Basin (Meki),CHIRPS,POD,0.68
+20,Ethiopia — Lake Ziway Basin (Meki),TRMM-3B42V7,POD,0.98
+45,Tunisia,SATRAN,Bias ,-0.47
+45,Tunisia,SATRAN,Bias ,-0.59
+45,Tunisia,SATRAN,Bias ,-0.17
+122,Ethiopia,CHIRPS,Bias ,12.04
+126,"Central highlands of Abbay Basin, Ethiopia",IMERG-06,Bias,0.90
+126,"Central highlands of Abbay Basin, Ethiopia",CHIRPSv2,Bias,0.89
+126,"Central highlands of Abbay Basin, Ethiopia",CMORPH,Bias,0.82
+126,"Central highlands of Abbay Basin, Ethiopia",PERSIANN-CCS,Bias,0.70
+130,Ethiopia - Beles Basin (Lowland),CHIRPS,Bias,0.82
+130,Ethiopia - Beles Basin (Highland),CHIRPS,Bias,0.99
+26,Ruga,CHIRPS,Bias,1.16
+26,Ruga,TAMSAT,Bias,1.06
+26,Haik,CHIRPS,Bias,0.86
+26,Haik,TAMSAT,Bias,0.76
+26,Dessie,CHIRPS,Bias,0.91
+26,Dessie,TAMSAT,Bias,0.84
+26,Kutaber,CHIRPS,Bias,1.00
+26,Kutaber,TAMSAT,Bias,0.89
+22,CKB (range across stations),RFE,Percent bias,0.08
+22,CKB (range across stations),TRMM,Percent bias,0.05
+22,CKB (range across stations),CMORPH27,Percent bias,0.05
+22,CKB (range across stations),CMORPH8,Percent bias,0.05
+23,UBNRB,ENACTS,Percent bias,0.01
+23,UBNRB,CHIRPS2,Percent bias,0.01
+23,UBNRB,IMERG6,Percent bias,0.01
+23,UBNRB,MSWEP2.2,Percent bias,0.01
+23,UBNRB,SM2RAIN-ASCAT1.1,Percent bias,0.01
+141,Eastern highlands of Ethiopia,GSMaP_MVK+,Percent bias,-0.01
+141,Eastern highlands of Ethiopia,PERSIANN,Percent bias,-0.01
+141,Eastern highlands of Ethiopia,TRMM 3B42,Percent bias,1.32
+25,West Africa,PERSIANN-RT,Percent bias,2.50
+32,UTB (basin-level),CHIRPSv8,Percent bias,0.01
+32,UTB (basin-level),EWEMBI,Percent bias,0.06
+32,Emba Madre,Gauge,Percent bias,0.04
+32,Emba Madre,CHIRPSv8,Percent bias,0.22
+32,Emba Madre,EWEMBI,Percent bias,0.30
+93,Upper Tekeze–Atbara Basin,PERSIANN-CDR,Bias,15.81
+93,Upper Tekeze–Atbara Basin,TAMSAT v3.1,Bias,-4.74
+93,Upper Tekeze–Atbara Basin,CMORPH-CDR,Bias,-8.43
+93,Upper Tekeze–Atbara Basin,IMERG v06,Bias,-6.61
+93,Upper Tekeze–Atbara Basin,OORA,Bias,9.24
+93,Upper Tekeze–Atbara Basin,SMA,Bias,-0.99
+93,Upper Tekeze–Atbara Basin,MLQR,Bias,-6.61
+93,Upper Tekeze–Atbara Basin,BMAQ,Bias,-2.94
+93,Upper Tekeze–Atbara Basin,DVQR,Bias,0.96
+95,Tropical AEZ,CHIRPS v2.0,Bias,0.84
+95,Tropical AEZ,MSWEP v2.8,Bias,0.80
+95,Tropical AEZ,TAMSAT v3.1,Bias,0.76
+95,Subtropical AEZ,CHIRPS v2.0,Bias,1.08
+95,Subtropical AEZ,MSWEP v2.8,Bias,1.01
+95,Subtropical AEZ,TAMSAT v3.1,Bias,1.12
+95,Temperate AEZ,CHIRPS v2.0,Bias,1.18
+95,Temperate AEZ,MSWEP v2.8,Bias,0.90
+95,Temperate AEZ,TAMSAT v3.1,Bias,1.07
+95,Alpine AEZ,CHIRPS v2.0,Bias,1.75
+95,Alpine AEZ,MSWEP v2.8,Bias,0.67
+95,Alpine AEZ,TAMSAT v3.1,Bias,1.02
+104,Djibouti,CHIRPS,Bias,0.18
+104,Djibouti,IMERG,Bias,0.34
+104,Djibouti,MSWEP,Bias,0.27
+104,Djibouti,RFE,Bias,0.45
+108,UBNB,CHIRPS,Bias,0.01
+108,UBNB,IMERG,Bias,0.09
+108,UBNB,ERA5,Bias,0.00
+108,UBNB,ERA5-Land,Bias,2.20
+69,Whole UBN Basin,CMORPH,Bias,-0.72
+69,Whole UBN Basin,TAMSAT,Bias,-0.30
+69,Whole UBN Basin,SM2R-CCI,Bias,0.00
+69,Whole UBN Basin,3B42V7,Bias,-0.04
+69,Whole UBN Basin,CFSR,Bias,-0.06
+39,U2E002 (Upper uMngeni/uThukela),TRMM3B42,Bias,0.84
+39,V2E002 (Upper uMngeni/uThukela),TRMM3B42,Bias,1.18
+39,0268883 (Upper uMngeni/uThukela),TRMM3B42,Bias,1.25
+39,02396985 (Upper uMngeni/uThukela),TRMM3B42,Bias,1.16
+39,U2E002 (Upper uMngeni/uThukela),FEWSARC2.0,Bias,0.79
+39,V2E002 (Upper uMngeni/uThukela),FEWSARC2.0,Bias,1.03
+39,0268883 (Upper uMngeni/uThukela),FEWSARC2.0,Bias,1.05
+39,02396985 (Upper uMngeni/uThukela),FEWSARC2.0,Bias,0.95
+39,U2E002 (Upper uMngeni/uThukela),FEWSRFE2.0,Bias,0.80
+39,V2E002 (Upper uMngeni/uThukela),FEWSRFE2.0,Bias,1.03
+39,0268883 (Upper uMngeni/uThukela),FEWSRFE2.0,Bias,1.10
+39,02396985 (Upper uMngeni/uThukela),FEWSRFE2.0,Bias,0.98
+39,U2E002 (Upper uMngeni/uThukela),TAMSAT-3,Bias,0.84
+39,V2E002 (Upper uMngeni/uThukela),TAMSAT-3,Bias,1.13
+39,0268883 (Upper uMngeni/uThukela),TAMSAT-3,Bias,1.17
+39,02396985 (Upper uMngeni/uThukela),TAMSAT-3,Bias,1.13
+39,U2E002 (Upper uMngeni/uThukela),GPM,Bias,0.56
+39,V2E002 (Upper uMngeni/uThukela),GPM,Bias,0.90
+39,0268883 (Upper uMngeni/uThukela),GPM,Bias,0.87
+39,02396985 (Upper uMngeni/uThukela),GPM,Bias,0.81
+39,0022729X (Breede),TRMM3B42,Bias,1.69
+39,H2E003 (Breede),TRMM3B42,Bias,0.66
+39,H6E001 (Breede),TRMM3B42,Bias,0.72
+39,0022729X (Breede),FEWSARC2.0,Bias,1.53
+39,H2E003 (Breede),FEWSARC2.0,Bias,0.47
+39,H6E001 (Breede),FEWSARC2.0,Bias,1.05
+39,0022729X (Breede),FEWSRFE2.0,Bias,1.30
+39,H2E003 (Breede),FEWSRFE2.0,Bias,0.45
+39,H6E001 (Breede),FEWSRFE2.0,Bias,0.76
+39,0022729X (Breede),TAMSAT-3,Bias,1.05
+39,H2E003 (Breede),TAMSAT-3,Bias,0.57
+39,H6E001 (Breede),TAMSAT-3,Bias,0.88
+39,0022729X (Breede),GPM,Bias,0.88
+39,H2E003 (Breede),GPM,Bias,0.37
+39,H6E001 (Breede),GPM,Bias,0.46
+42,Niger,CMORPH,Percent bias,1.75
+42,Niger,ARC2,Percent bias,0.17
+42,Niger,CHIRPS,Percent bias,0.10
+42,Niger,TAMSAT,Percent bias,0.30
+163,South Africa,CHIRPS v2,Percent bias,0.01
+73,Pra Basin of Ghana,CMORPH,Percent bias,0.38
+73,Pra Basin of Ghana,TMPA 3B42,Percent bias,0.14
+73,Pra Basin of Ghana,TMPA 3B42-RT,Percent bias,0.17
+4,Northwest Ethiopia,ARC2,Bias,0.70
+4,Northwest Ethiopia,TAMSAT3,Bias,0.92
+4,Northwest Ethiopia,CHIRPS,Bias,0.88
+4,Southeast Ethiopia,ARC2,Bias,0.61
+4,Southeast Ethiopia,TAMSAT3,Bias,0.98
+4,Southeast Ethiopia,CHIRPS,Bias,0.90
+4,Western Tanzania,ARC2,Bias,0.81
+4,Western Tanzania,TAMSAT3,Bias,0.83
+4,Western Tanzania,CHIRPS,Bias,0.91
+4,Eastern Tanzania,ARC2,Bias,0.52
+4,Eastern Tanzania,TAMSAT3,Bias,0.70
+4,Eastern Tanzania,CHIRPS,Bias,0.85
+6,Northern Tunisia – Forestry Zone,TRMM 3B42 V7,Bias,0.90
+6,Northern Tunisia – Whole region,TRMM 3B42 V7,Bias,0.95
+7,Upper Tekeze–Atbara Basin,ARC2,Percent bias,-58.00
+7,Upper Tekeze–Atbara Basin,CHIRPS,Percent bias,-10.00
+7,Upper Tekeze–Atbara Basin,CMap,Percent bias,-38.00
+7,Upper Tekeze–Atbara Basin,CMorph,Percent bias,18.00
+7,Upper Tekeze–Atbara Basin,GPCP,Percent bias,-41.00
+7,Upper Tekeze–Atbara Basin,PERSIANN,Percent bias,-13.00
+7,Upper Tekeze–Atbara Basin,RFEv2,Percent bias,-0.08
+7,Upper Tekeze–Atbara Basin,TRMM 3B42V7,Percent bias,0.11
+10,Western branch of the East African Rift,TMPA ResV,Percent bias,-0.15
+10,Western branch of the East African Rift,TMPA RT,Percent bias,-0.40
+12,Upper Zambezi catchment,RiverWatch3 discharge,Bias correction factor,0.55
+12,Upper Zambezi catchment,RiverWatch3 discharge,Bias correction factor,0.28
+12,Kasempa (Zambia),GPM rainfall,Bias correction factor,2.10
+77,Ethiopia — Gilgel Abbey Catchment,(not specified),Bias,0.97
+13,Northern Algeria,MSG-SEVIRI,Bias,2.18
+149,Africa,CHIRPS,Bias,1.15
+149,Africa,TAMSAT,Bias,1.10
+149,Africa,GSMaP,Bias,1.10
+149,Africa,GSMaP_wGauge,Bias,1.00
+149,East Africa,CHIRPS,Bias,1.26
+149,East Africa,TAMSAT,Bias,1.14
+149,East Africa,GSMaP,Bias,0.99
+149,East Africa,GSMaP_wGauge,Bias,1.05
+149,Southern Africa,CHIRPS,Bias,0.93
+149,Southern Africa,TAMSAT,Bias,0.84
+149,Southern Africa,GSMaP,Bias,0.89
+149,Southern Africa,GSMaP_wGauge,Bias,0.86
+149,West Africa,CHIRPS,Bias,1.09
+149,West Africa,TAMSAT,Bias,1.13
+149,West Africa,GSMaP,Bias,1.23
+149,West Africa,GSMaP_wGauge,Bias,0.97
+115,Burkina Faso,CHIRPS,Percent bias,0.00
+115,Burkina Faso,ARC2,Percent bias,0.00
+115,Burkina Faso,RFE2,Percent bias,0.00
+115,Burkina Faso,TAMSAT,Percent bias,0.00
+115,Burkina Faso,CCI,Percent bias,0.10
+115,Burkina Faso,GPM,Percent bias,-30.00
+115,Burkina Faso,ASCAT,Percent bias,-30.00
+118,Gumera Watershed,CHIRPS-V2,Percent bias,0.88
+118,Gumera Watershed,TAMSAT-V3.1,Percent bias,0.96
+118,Gumera Watershed,PERSIANN-CDR,Percent bias,0.66
+120,Wabi Shebelle River Basin,CHIRPSv2,Percent bias,-6.74
+120,Wabi Shebelle River Basin,PERSIANN_CDR,Percent bias,3.30
+120,Wabi Shebelle River Basin,TAMSATv3,Percent bias,-4.97
+120,Wabi Shebelle River Basin,CHIRPS_D,Percent bias,-7.06
+120,Wabi Shebelle River Basin,TAMSAT_D,Percent bias,-4.92
+120,Wabi Shebelle River Basin,PERSIANN_CDR_D,Percent bias,3.09
+20,Ethiopia — Lake Ziway Basin (Ketar),CFSR,Percent bias,-3.78
+20,Ethiopia — Lake Ziway Basin (Ketar),PERSIANN-CDR,Percent bias,5.15
+20,Ethiopia — Lake Ziway Basin (Ketar),CHIRPS,Percent bias,-3.47
+20,Ethiopia — Lake Ziway Basin (Ketar),TRMM-3B42V7,Percent bias,-10.36
+20,Ethiopia — Lake Ziway Basin (Meki),CFSR,Percent bias,-56.76
+20,Ethiopia — Lake Ziway Basin (Meki),PERSIANN-CDR,Percent bias,7.82
+20,Ethiopia — Lake Ziway Basin (Meki),CHIRPS,Percent bias,-4.43
+20,Ethiopia — Lake Ziway Basin (Meki),TRMM-3B42V7,Percent bias,13.74
+78,Burkina Faso,IMERG,Percent bias,6.20
+78,Burkina Faso,CMORPH,Percent bias,0.70
+78,Burkina Faso,ERA5,Percent bias,-18.70
+78,Burkina Faso,MERRA-2,Percent bias,-38.80
+78,Burkina Faso,PDIR-Now,Percent bias,-45.90
+78,Burkina Faso,PERSIANN,Percent bias,39.00
+78,Burkina Faso,PERSIANN-CCS,Percent bias,42.10
+80,Eastern Zimbabwe,CHIRPS,Percent bias,-0.84
+80,Eastern Zimbabwe,CMORPH,Percent bias,-0.35
+80,Eastern Zimbabwe,PERSIANN-CCS,Percent bias,1.19
+80,Eastern Zimbabwe,PDIR-Now,Percent bias,-0.06
+126,"Central highlands of Abbay Basin, Ethiopia",CHIRPSv2,FAR,0.24
+126,"Central highlands of Abbay Basin, Ethiopia",PERSIANN-CCS,FAR,0.28
+126,"Central highlands of Abbay Basin, Ethiopia",IMERG-06,FAR,0.31
+126,"Central highlands of Abbay Basin, Ethiopia",CMORPH,FAR,0.33
+130,Ethiopia — Beles Basin (Highland),CHIRPS,FAR,0.27
+130,Ethiopia — Beles Basin (Lowland),CHIRPS,FAR,0.31
+26,Ruga,CHIRPS,FAR,0.38
+26,Ruga,TAMSAT,FAR,0.30
+26,Haik,CHIRPS,FAR,0.37
+26,Haik,TAMSAT,FAR,0.29
+26,Dessie,CHIRPS,FAR,0.40
+26,Dessie,TAMSAT,FAR,0.32
+26,Kutaber,CHIRPS,FAR,0.37
+26,Kutaber,TAMSAT,FAR,0.26
+134,POKOLA,CHIRPS,FAR,0.47
+134,POKOLA,ARC,FAR,0.43
+134,POKOLA,TARCAT,FAR,0.34
+134,POKOLA,PERSIANN,FAR,0.59
+134,POKOLA,CMORPH,FAR,0.44
+134,POKOLA,TAPEER,FAR,0.49
+134,MOKABI,CHIRPS,FAR,0.47
+134,MOKABI,ARC,FAR,0.42
+134,MOKABI,TARCAT,FAR,0.29
+134,MOKABI,PERSIANN,FAR,0.57
+134,MOKABI,CMORPH,FAR,0.44
+134,MOKABI,TAPEER,FAR,0.48
+134,TSHIVANGA,CHIRPS,FAR,0.36
+134,TSHIVANGA,ARC,FAR,0.42
+134,TSHIVANGA,TARCAT,FAR,0.33
+134,TSHIVANGA,PERSIANN,FAR,0.43
+134,TSHIVANGA,CMORPH,FAR,0.39
+134,TSHIVANGA,TAPEER,FAR,0.57
+134,MATANDA,CHIRPS,FAR,0.43
+134,MATANDA,ARC,FAR,0.44
+134,MATANDA,TARCAT,FAR,0.43
+134,MATANDA,PERSIANN,FAR,0.49
+134,MATANDA,CMORPH,FAR,0.39
+134,MATANDA,TAPEER,FAR,0.46
+134,IDJWI,CHIRPS,FAR,0.41
+134,IDJWI,ARC,FAR,0.42
+134,IDJWI,TARCAT,FAR,0.35
+134,IDJWI,PERSIANN,FAR,0.50
+134,IDJWI,CMORPH,FAR,0.47
+134,IDJWI,TAPEER,FAR,0.66
+134,BAKOUMBA,CHIRPS,FAR,0.39
+134,BAKOUMBA,ARC,FAR,0.34
+134,BAKOUMBA,TARCAT,FAR,0.27
+134,BAKOUMBA,PERSIANN,FAR,0.50
+134,BAKOUMBA,TMPA,FAR,0.34
+134,BAKOUMBA,CMORPH,FAR,0.40
+134,BAKOUMBA,TAPEER,FAR,0.45
+134,KINSHASA/BINZA,CHIRPS,FAR,0.47
+134,KINSHASA/BINZA,ARC,FAR,0.40
+134,KINSHASA/BINZA,TARCAT,FAR,0.36
+134,KINSHASA/BINZA,PERSIANN,FAR,0.57
+134,KINSHASA/BINZA,TMPA,FAR,0.31
+134,KINSHASA/BINZA,CMORPH,FAR,0.40
+134,KINSHASA/BINZA,TAPEER,FAR,0.49
+22,CKB (mean across stations),RFE,FAR,0.23
+22,CKB (mean across stations),TRMM,FAR,0.30
+22,CKB (mean across stations),CMORPH27,FAR,0.40
+22,CKB (mean across stations),CMORPH8,FAR,0.50
+23,UBNRB,ENACTS,FAR,0.07
+23,UBNRB,CHIRPS2,FAR,0.19
+23,UBNRB,IMERG6,FAR,0.11
+23,UBNRB,MSWEP2.2,FAR,0.12
+23,UBNRB,SM2RAIN-ASCAT1.1,FAR,0.03
+23,UBNRB,ENACTS,FAR,0.20
+23,UBNRB,CHIRPS2,FAR,0.77
+23,UBNRB,IMERG6,FAR,0.64
+23,UBNRB,MSWEP2.2,FAR,0.63
+23,UBNRB,SM2RAIN-ASCAT1.1,FAR,0.86
+23,UBNRB,ENACTS,FAR,0.10
+23,UBNRB,CHIRPS2,FAR,0.41
+23,UBNRB,IMERG6,FAR,0.34
+23,UBNRB,MSWEP2.2,FAR,0.35
+23,UBNRB,SM2RAIN-ASCAT1.1,FAR,0.46
+23,UBNRB,ENACTS,FAR,0.03
+23,UBNRB,CHIRPS2,FAR,0.47
+23,UBNRB,IMERG6,FAR,0.37
+23,UBNRB,MSWEP2.2,FAR,0.34
+23,UBNRB,SM2RAIN-ASCAT1.1,FAR,0.96
+23,UBNRB,ENACTS,FAR,0.00
+23,UBNRB,CHIRPS2,FAR,0.94
+23,UBNRB,IMERG6,FAR,0.55
+23,UBNRB,MSWEP2.2,FAR,0.50
+23,UBNRB,SM2RAIN-ASCAT1.1,FAR,1.00
+141,Eastern highlands of Ethiopia,GSMaP_MVK+,FAR,0.54
+141,Eastern highlands of Ethiopia,PERSIANN,FAR,0.26
+141,Eastern highlands of Ethiopia,TRMM 3B42,FAR,0.34
+31,"Lake Victoria basin, Kenya",CHIRPS,FAR,0.20
+31,"Lake Victoria basin, Kenya",CHIRPS,FAR,0.35
+31,"Lake Victoria basin, Kenya",MSWEP,FAR,0.45
+146,Across Ethiopia,CHIRPS V2.0,FAR,0.20
+146,Across Ethiopia,ERA5,FAR,0.20
+95,Tropical AEZ,CHIRPS v2.0,FAR,0.16
+95,Tropical AEZ,MSWEP v2.8,FAR,0.10
+95,Tropical AEZ,TAMSAT v3.1,FAR,0.09
+95,Subtropical AEZ,CHIRPS v2.0,FAR,0.17
+95,Subtropical AEZ,MSWEP v2.8,FAR,0.11
+95,Subtropical AEZ,TAMSAT v3.1,FAR,0.18
+95,Temperate AEZ,CHIRPS v2.0,FAR,0.28
+95,Temperate AEZ,MSWEP v2.8,FAR,0.10
+95,Temperate AEZ,TAMSAT v3.1,FAR,0.21
+95,Alpine AEZ,CHIRPS v2.0,FAR,0.62
+95,Alpine AEZ,MSWEP v2.8,FAR,0.10
+95,Alpine AEZ,TAMSAT v3.1,FAR,0.31
+42,Niger,TAMSAT,FAR,0.65
+42,Niger,CMORPH,FAR,0.50
+42,Niger,CHIRPS,FAR,0.60
+42,Niger,ARC2,FAR,0.60
+6,"Ethiopia, Meki Catchment",CHIRP,FAR,0.68
+6,"Ethiopia, Katar Catchment",CHIRP,FAR,0.63
+10,Western branch of the East African Rift,TMPA ResV,FAR,0.30
+10,Western branch of the East African Rift,TMPA RT,FAR,0.30
+149,Africa,CHIRPS,FAR,0.28
+149,Africa,TAMSAT,FAR,0.29
+149,Africa,GSMaP,FAR,0.30
+149,Africa,GSMaP_wGauge,FAR,0.31
+149,East Africa,CHIRPS,FAR,0.21
+149,East Africa,TAMSAT,FAR,0.22
+149,East Africa,GSMaP,FAR,0.25
+149,East Africa,GSMaP_wGauge,FAR,0.30
+149,Southern Africa,CHIRPS,FAR,0.26
+149,Southern Africa,TAMSAT,FAR,0.22
+149,Southern Africa,GSMaP,FAR,0.29
+149,Southern Africa,GSMaP_wGauge,FAR,0.29
+149,West Africa,CHIRPS,FAR,0.30
+149,West Africa,TAMSAT,FAR,0.35
+149,West Africa,GSMaP,FAR,0.35
+149,West Africa,GSMaP_wGauge,FAR,0.34
+115,Burkina Faso,ARC2,FAR,0.10
+115,Burkina Faso,RFE2,FAR,0.10
+115,Burkina Faso,CHIRPS,FAR,0.90
+115,Burkina Faso,TAMSAT,FAR,0.90
+115,Burkina Faso,CCI,FAR,0.90
+115,Burkina Faso,GPM,FAR,0.90
+115,Burkina Faso,ASCAT,FAR,0.90
+118,Gumera Watershed,CHIRPS-V2,FAR,0.07
+118,Gumera Watershed,TAMSAT-V3.1,FAR,0.06
+118,Gumera Watershed,PERSIANN-CDR,FAR,0.06
+20,"Ethiopia, Lake Ziway Basin Ketar",CFSR,FAR,0.22
+20,"Ethiopia, Lake Ziway Basin Ketar",PERSIANN-CDR,FAR,0.28
+20,"Ethiopia, Lake Ziway Basin Ketar",CHIRPS,FAR,0.24
+20,"Ethiopia, Lake Ziway Basin Ketar",TRMM-3B42V7,FAR,0.37
+20,"Ethiopia, Lake Ziway Basin Meki",CFSR,FAR,0.17
+20,"Ethiopia, Lake Ziway Basin",PERSIANN-CDR,FAR,0.32
+20,"Ethiopia, Lake Ziway Basin",CHIRPS,FAR,0.22
+20,"Ethiopia, Lake Ziway Basin",TRMM-3B42V7,FAR,0.54
+23,UBNRB,ENACTS,KGE,0.75
+23,UBNRB,CHIRPS2,KGE,0.35
+23,UBNRB,IMERG6,KGE,0.35
+23,UBNRB,MSWEP2.2,KGE,0.35
+23,UBNRB,SM2RAIN-ASCAT1.1,KGE,0.15
+25,West Africa,Most P-datasets,KGE,0.40
+25,West Africa,MSWEP v.2.2,KGE,0.52
+25,West Africa,TMPA-Adj v.7,KGE,0.40
+25,West Africa,CMORPH-BLD v.1,KGE,0.40
+25,West Africa,CMORPH-CRT v.1,KGE,0.40
+25,West Africa,GSMaP-RT v.6,KGE,0.44
+25,West Africa,PERSIANN-Adj,KGE,0.40
+25,West Africa,GSMaP-Adj v.6,KGE,0.35
+25,West Africa,PERSIANN-RT,KGE,0.00
+25,West Africa,MERRA-2,KGE,0.20
+25,West Africa,WFDEI,KGE,0.20
+25,West Africa,ERA-Interim,KGE,0.20
+25,West Africa,JRA-55,KGE,0.20
+146,Across most high-altitude (>2000 m) areas of Ethiopia,CHIRPS V2.0,KGE,0.60
+146,At most higher altitude (>3000 m) areas of Ethiopia,ERA5,KGE,0.30
+93,Upper Tekeze–Atbara Basin,OORA,KGE,0.74
+93,Upper Tekeze–Atbara Basin,SMA,KGE,0.75
+93,Upper Tekeze–Atbara Basin,MLQR,KGE,0.77
+93,Upper Tekeze–Atbara Basin,BMAQ,KGE,0.66
+93,Upper Tekeze–Atbara Basin,DVQR,KGE,0.79
+95,Tropical AEZ,CHIRPS v2.0,KGE,0.42
+95,Tropical AEZ,MSWEP v2.8,KGE,0.44
+95,Tropical AEZ,TAMSAT v3.1,KGE,0.48
+95,Subtropical AEZ,CHIRPS v2.0,KGE,0.65
+95,Subtropical AEZ,MSWEP v2.8,KGE,0.72
+95,Subtropical AEZ,TAMSAT v3.1,KGE,0.69
+95,Temperate AEZ,CHIRPS v2.0,KGE,0.55
+95,Temperate AEZ,MSWEP v2.8,KGE,0.64
+95,Temperate AEZ,TAMSAT v3.1,KGE,0.93
+95,Alpine AEZ,CHIRPS v2.0,KGE,0.27
+95,Alpine AEZ,MSWEP v2.8,KGE,0.46
+95,Alpine AEZ,TAMSAT v3.1,KGE,0.49
+115,Burkina Faso,ARC2,KGE,0.85
+115,Burkina Faso,RFE2,KGE,0.85
+115,Burkina Faso,TAMSAT,KGE,0.50
+115,Burkina Faso,CHIRPS,KGE,0.50
+115,Burkina Faso,CCI,KGE,0.25
+115,Burkina Faso,GPM,KGE,0.25
+115,Burkina Faso,ASCAT,KGE,0.15
+14,Blue Nile,MLPET (K-fold),KGE,0.60
+14,Blue Nile,MLPET (Leave-one-region-out),KGE,0.10
+14,Blue Nile,EI_GPCC,KGE,0.08
+14,Blue Nile,CMORPH,KGE,0.26
+14,Blue Nile,GSMAP,KGE,0.05
+14,Blue Nile,PERSIANN,KGE,0.08
+14,Blue Nile,3B42 (V7),KGE,0.20
+14,Blue Nile,MSWEP (V1),KGE,0.20
+14,Blue Nile,MSWEP (V2),KGE,0.24
+14,Colombian Andes,MLPET (K-fold),KGE,0.35
+14,Colombian Andes,MLPET (Leave-one-region-out),KGE,0.07
+14,Colombian Andes,EI_GPCC,KGE,0.06
+14,Colombian Andes,CMORPH,KGE,-0.05
+14,Colombian Andes,GSMAP,KGE,-0.64
+14,Colombian Andes,PERSIANN,KGE,-0.05
+14,Colombian Andes,3B42 (V7),KGE,0.08
+14,Colombian Andes,MSWEP (V1),KGE,0.06
+14,Colombian Andes,MSWEP (V2),KGE,0.07
+14,Peruvian Andes,MLPET (K-fold),KGE,0.38
+14,Peruvian Andes,MLPET (Leave-one-region-out),KGE,0.05
+14,Peruvian Andes,EI_GPCC,KGE,0.08
+14,Peruvian Andes,CMORPH,KGE,0.01
+14,Peruvian Andes,GSMAP,KGE,-0.60
+14,Peruvian Andes,PERSIANN,KGE,-0.01
+14,Peruvian Andes,3B42 (V7),KGE,0.13
+14,Peruvian Andes,MSWEP (V1),KGE,0.15
+14,Peruvian Andes,MSWEP (V2),KGE,0.23
+78,Burkina Faso,IMERG,KGE,0.83
+78,Burkina Faso,CMORPH,KGE,0.40
+78,Burkina Faso,ERA5,KGE,0.07
+78,Burkina Faso,MERRA-2,KGE,0.01
+78,Burkina Faso,PDIR-Now,KGE,-0.07
+78,Burkina Faso,PERSIANN,KGE,0.29
+78,Burkina Faso,PERSIANN-CCS,KGE,0.27
+130,Ethiopia - Beles Basin Highland,CHIRPS,NSE,0.03
+130,Ethiopia - Beles Basin Lowland,CHIRPS,NSE,0.12
+32,Emba Madre,Gauge,NSE,0.57
+93,Upper Tekeze–Atbara Basin,OORA,NSE,0.50
+93,Upper Tekeze–Atbara Basin,SMA,NSE,0.48
+93,Upper Tekeze–Atbara Basin,MLQR,NSE,0.54
+93,Upper Tekeze–Atbara Basin,BMAQ,NSE,0.62
+93,Upper Tekeze–Atbara Basin,DVQR,NSE,0.62
+108,UBNB,CHIRPS,NSE,-0.18
+108,UBNB,IMERG,NSE,0.03
+108,UBNB,ERA5,NSE,-0.51
+108,UBNB,ERA5-Land,NSE,-1.06
+39,U2H006 (Upper uMngeni),Rain gauge,NSE,-0.27
+39,U2H007 (Upper uMngeni),Rain gauge,NSE,-0.98
+39,U2H013 (Upper uMngeni),Rain gauge,NSE,0.16
+39,V6H004 (Upper uThukela),Rain gauge,NSE,-0.11
+39,V7H017 (Upper uThukela),Rain gauge,NSE,0.10
+39,V2H006 (Upper uThukela),Rain gauge,NSE,-0.06
+39,H1H013 (Upper and Central Breede),Rain gauge,NSE,0.03
+39,H4H016 (Upper and Central Breede),Rain gauge,NSE,-0.04
+39,H4H018 (Upper and Central Breede),Rain gauge,NSE,-1.53
+39,U2H006 (Upper uMngeni),TRMM3B42,NSE,0.01
+39,U2H007 (Upper uMngeni),TRMM3B42,NSE,-0.84
+39,U2H013 (Upper uMngeni),TRMM3B42,NSE,0.19
+39,V6H004 (Upper uThukela),TRMM3B42,NSE,0.07
+39,V7H017 (Upper uThukela),TRMM3B42,NSE,0.31
+39,V2H006 (Upper uThukela),TRMM3B42,NSE,0.12
+39,H1H013 (Upper and Central Breede),TRMM3B42,NSE,-0.13
+39,H4H016 (Upper and Central Breede),TRMM3B42,NSE,0.03
+39,H4H018 (Upper and Central Breede),TRMM3B42,NSE,-9.80
+39,U2H006 (Upper uMngeni),FEWSARC2.0,NSE,-0.41
+39,U2H007 (Upper uMngeni),FEWSARC2.0,NSE,-0.06
+39,U2H013 (Upper uMngeni),FEWSARC2.0,NSE,-0.03
+39,V6H004 (Upper uThukela),FEWSARC2.0,NSE,-0.20
+39,V7H017 (Upper uThukela),FEWSARC2.0,NSE,-0.14
+39,V2H006 (Upper uThukela),FEWSARC2.0,NSE,-0.24
+39,H1H013 (Upper and Central Breede),FEWSARC2.0,NSE,-0.15
+39,H4H016 (Upper and Central Breede),FEWSARC2.0,NSE,0.15
+39,H4H018 (Upper and Central Breede),FEWSARC2.0,NSE,-1.67
+39,U2H006 (Upper uMngeni),FEWSRFE2.0,NSE,-0.26
+39,U2H007 (Upper uMngeni),FEWSRFE2.0,NSE,0.00
+39,U2H013 (Upper uMngeni),FEWSRFE2.0,NSE,-0.05
+39,V6H004 (Upper uThukela),FEWSRFE2.0,NSE,0.03
+39,V7H017 (Upper uThukela),FEWSRFE2.0,NSE,-0.16
+39,V2H006 (Upper uThukela),FEWSRFE2.0,NSE,-0.27
+39,H1H013 (Upper and Central Breede),FEWSRFE2.0,NSE,-0.15
+39,H4H016 (Upper and Central Breede),FEWSRFE2.0,NSE,0.12
+39,H4H018 (Upper and Central Breede),FEWSRFE2.0,NSE,-1.35
+39,U2H006 (Upper uMngeni),TAMSAT,NSE,-0.19
+39,U2H007 (Upper uMngeni),TAMSAT,NSE,0.00
+39,U2H013 (Upper uMngeni),TAMSAT,NSE,-0.21
+39,V6H004 (Upper uThukela),TAMSAT,NSE,-0.06
+39,V7H017 (Upper uThukela),TAMSAT,NSE,0.01
+39,V2H006 (Upper uThukela),TAMSAT,NSE,-0.22
+39,H1H013 (Upper and Central Breede),TAMSAT,NSE,-0.16
+39,H4H016 (Upper and Central Breede),TAMSAT,NSE,0.00
+39,H4H018 (Upper and Central Breede),TAMSAT,NSE,-0.09
+39,U2H006 (Upper uMngeni),GPM,NSE,-3.45
+39,U2H007 (Upper uMngeni),GPM,NSE,0.03
+39,U2H013 (Upper uMngeni),GPM,NSE,-0.09
+39,V6H004 (Upper uThukela),GPM,NSE,0.21
+39,V7H017 (Upper uThukela),GPM,NSE,0.26
+39,V2H006 (Upper uThukela),GPM,NSE,0.06
+39,H1H013 (Upper and Central Breede),GPM,NSE,-0.50
+39,H4H016 (Upper and Central Breede),GPM,NSE,-0.02
+39,H4H018 (Upper and Central Breede),GPM,NSE,-0.04
+163,South Africa,CHIRPS v2,NSE,0.58
+101,Ethiopia,3B42 - SWAT,NSE,0.75
+101,Ethiopia,3B42RT - SWAT,NSE,0.76
+101,Ethiopia,CMORPH - SWAT,NSE,0.79
+101,Ethiopia,Gauge - SWAT,NSE,0.81
+101,Ethiopia,3B42 - HEC-HMS,NSE,0.75
+101,Ethiopia,3B42RT - HEC-HMS,NSE,0.75
+101,Ethiopia,CMORPH - HEC-HMS,NSE,0.75
+101,Ethiopia,Gauge - HEC-HMS,NSE,0.78
+101,Ethiopia,3B42 - HBV,NSE,0.75
+101,Ethiopia,3B42RT - HBV,NSE,0.76
+101,Ethiopia,CMORPH - HBV,NSE,0.76
+101,Ethiopia,Gauge - HBV,NSE,0.78
+101,Ethiopia,Fusion - SWAT,NSE,0.82
+101,Ethiopia,Fusion HEC-HMS,NSE,0.79
+101,Ethiopia,Fusion - HBV,NSE,0.79
+118,Gumera Watershed,CHIRPS-V2,NSE,0.03
+118,Gumera Watershed,TAMSAT-V3.1,NSE,0.20
+118,Gumera Watershed,PERSIANN-CDR,NSE,0.09
+20,Ethiopia - Lake Ziway Basin - Ketar,CFSR,NSE,-0.69
+20,Ethiopia - Lake Ziway Basin - Ketar,PERSIANN-CDR,NSE,0.44
+20,Ethiopia - Lake Ziway Basin - Ketar,CHIRPS,NSE,0.51
+20,Ethiopia - Lake Ziway Basin - Ketar,TRMM-3B42V7,NSE,0.57
+20,Ethiopia - Lake Ziway Basin - Meki,CFSR,NSE,0.07
+20,Ethiopia - Lake Ziway Basin - Meki,PERSIANN-CDR,NSE,0.42
+20,Ethiopia - Lake Ziway Basin - Meki,CHIRPS,NSE,0.55
+20,Ethiopia - Lake Ziway Basin - Meki,TRMM-3B42V7,NSE,0.47
+80,Eastern Zimbabwe,CHIRPS,NSE,-0.07
+80,Eastern Zimbabwe,CMORPH,NSE,-0.30
+80,Eastern Zimbabwe,PERSIANN-CCS,NSE,-1.39
+80,Eastern Zimbabwe,PDIR-Now,NSE,-0.31
+126,Central highlands of Abbay Basin - Ethiopia,IMERG-06,MAE,7.70
+126,Central highlands of Abbay Basin - Ethiopia,CHIRPSv2,MAE,12.50
+126,Central highlands of Abbay Basin - Ethiopia,CMORPH,MAE,16.90
+126,Central highlands of Abbay Basin - Ethiopia,PERSIANN-CCS,MAE,19.70
+130,Ethiopia - Highland,CHIRPS,MAE,4.33
+130,Ethiopia - Lowland,CHIRPS,MAE,4.52
+26,Ruga - Madagascar,CHIRPS,MAE,3.75
+26,Ruga - Madagascar,TAMSAT,MAE,2.97
+26,Haik - Madagascar,CHIRPS,MAE,3.84
+26,Haik - Madagascar,TAMSAT,MAE,3.15
+26,Dessie - Madagascar,CHIRPS,MAE,4.01
+26,Dessie - Madagascar,TAMSAT,MAE,3.33
+26,Kutaber - Madagascar,CHIRPS,MAE,3.79
+26,Kutaber - Madagascar,TAMSAT,MAE,2.87
+138,Ghana,CHIRPS,MAE,3.88
+138,Ghana,SM2RAIN,MAE,4.89
+138,Ghana,TAMSAT,MAE,4.25
+138,Uganda,CHIRPS,MAE,4.18
+138,Uganda,SM2RAIN,MAE,4.64
+138,Uganda,TAMSAT,MAE,4.66
+22,CKB - mean across stations,RFE,MAE,2.50
+22,CKB - mean across stations,TRMM,MAE,3.50
+22,CKB - mean across stations,CMORPH27,MAE,4.00
+22,CKB - mean across stations,CMORPH8,MAE,4.50
+26,Ankavia watershed,IMERG,MAE,5.50
+26,Ankavia watershed,RFEv2,MAE,6.00
+26,Ankavia watershed,ARC2,MAE,6.70
+93,Upper Tekeze–Atbara Basin,PERSIANN-CDR,MAE,2.66
+93,Upper Tekeze–Atbara Basin,TAMSAT v3.1,MAE,2.74
+93,Upper Tekeze–Atbara Basin,CMORPH-CDR,MAE,2.58
+93,Upper Tekeze–Atbara Basin,IMERG v06,MAE,2.46
+93,Upper Tekeze–Atbara Basin,OORA,MAE,2.19
+93,Upper Tekeze–Atbara Basin,SMA,MAE,2.21
+93,Upper Tekeze–Atbara Basin,MLQR,MAE,2.14
+93,Upper Tekeze–Atbara Basin,BMAQ,MAE,2.10
+93,Upper Tekeze–Atbara Basin,DVQR,MAE,1.97
+95,Tropical AEZ,CHIRPS v2.0,MAE,3.44
+95,Tropical AEZ,MSWEP v2.8,MAE,3.02
+95,Tropical AEZ,TAMSAT v3.1,MAE,3.12
+95,Subtropical AEZ,CHIRPS v2.0,MAE,2.71
+95,Subtropical AEZ,MSWEP v2.8,MAE,2.18
+95,Subtropical AEZ,TAMSAT v3.1,MAE,2.57
+95,Temperate AEZ,CHIRPS v2.0,MAE,2.20
+95,Temperate AEZ,MSWEP v2.8,MAE,2.20
+95,Temperate AEZ,TAMSAT v3.1,MAE,0.56
+95,Alpine AEZ,CHIRPS v2.0,MAE,3.52
+95,Alpine AEZ,MSWEP v2.8,MAE,2.66
+95,Alpine AEZ,TAMSAT v3.1,MAE,2.73
+95,UBNB,CHIRPS,MAE,3.66
+95,UBNB,IMERG,MAE,3.53
+95,UBNB,ERA5,MAE,4.50
+95,UBNB,ERA5-Land,MAE,4.94
+150,Uganda and its neighbouring areas,IMERG-F_0.18,MAE,7.60
+150,Uganda and its neighbouring areas,IMERG-F_0.258,MAE,7.30
+150,Uganda and its neighbouring areas,IMERG-E,MAE,8.00
+150,Uganda and its neighbouring areas,TMPA 3B42 v7,MAE,8.10
+150,Uganda and its neighbouring areas,TMPA-RT 3B42RT v7,MAE,7.80
+150,Uganda and its neighbouring areas,CHIRPS v2,MAE,8.20
+150,Uganda and its neighbouring areas,MSWEPv2.2,MAE,7.00
+150,Uganda and its neighbouring areas,MSWEPv2.8,MAE,7.00
+42,Niger,CHIRPS,MAE,4.63
+42,Niger,ARC2,MAE,5.00
+42,Niger,TAMSAT,MAE,5.50
+42,Niger,CMORPH,MAE,8.00
+163,South Africa,CHIRPS v2,MAE,5.09
+163,Ethiopia Meki Catchment,CHIRP,MAE,3.98
+163,Ethiopia Katar Catchment,CHIRP,MAE,3.48
+7,Upper Tekeze–Atbara Basin,ARC2,MAE,102.00
+7,Upper Tekeze–Atbara Basin,CHIRPS,MAE,19.00
+7,Upper Tekeze–Atbara Basin,CMap,MAE,54.00
+7,Upper Tekeze–Atbara Basin,CMorph,MAE,39.00
+7,Upper Tekeze–Atbara Basin,GPCP,MAE,79.00
+7,Upper Tekeze–Atbara Basin,PERSIANN,MAE,48.00
+7,Upper Tekeze–Atbara Basin,RFEv2,MAE,25.00
+7,Upper Tekeze–Atbara Basin,TRMM 3B42V7,MAE,25.00
+13,Northern Algeria,MSG-SEVIRI,MAE,68.07
+149,Africa,CHIRPS,MAE,4.39
+149,Africa,TAMSAT,MAE,4.21
+149,Africa,GSMaP,MAE,3.49
+149,Africa,GSMaP_wGauge,MAE,3.48
+149,East Africa,CHIRPS,MAE,4.39
+149,East Africa,TAMSAT,MAE,4.21
+149,East Africa,GSMaP,MAE,3.49
+149,East Africa,GSMaP_wGauge,MAE,3.48
+149,Southern Africa,CHIRPS,MAE,3.12
+149,Southern Africa,TAMSAT,MAE,3.08
+149,Southern Africa,GSMaP,MAE,2.60
+149,Southern Africa,GSMaP_wGauge,MAE,2.67
+149,West Africa,CHIRPS,MAE,3.45
+149,West Africa,TAMSAT,MAE,3.61
+149,West Africa,GSMaP,MAE,3.27
+149,West Africa,GSMaP_wGauge,MAE,2.94
+78,Burkina Faso,IMERG,MAE,6.49
+78,Burkina Faso,CMORPH,MAE,13.56
+78,Burkina Faso,ERA5,MAE,17.89
+78,Burkina Faso,MERRA-2,MAE,23.96
+78,Burkina Faso,PDIR-Now,MAE,24.34
+78,Burkina Faso,PERSIANN,MAE,15.65
+78,Burkina Faso,PERSIANN-CCS,MAE,16.17
+126,Central highlands of Abbay Basin - Ethiopia,CMORPH,CSI,0.56
+126,Central highlands of Abbay Basin - Ethiopia,IMERG-06,CSI,0.54
+126,Central highlands of Abbay Basin - Ethiopia,PERSIANN-CCS,CSI,0.53
+126,Central highlands of Abbay Basin - Ethiopia,CHIRPSv2,CSI,0.47
+26,Ruga - Madagascar,CHIRPS,CSI,0.33
+26,Ruga - Madagascar,TAMSAT,CSI,0.48
+26,Haik - Madagascar,CHIRPS,CSI,0.33
+26,Haik - Madagascar,TAMSAT,CSI,0.47
+26,Dessie - Madagascar,CHIRPS,CSI,0.32
+26,Dessie - Madagascar,TAMSAT,CSI,0.47
+26,Kutaber - Madagascar,CHIRPS,CSI,0.33
+26,Kutaber - Madagascar,TAMSAT,CSI,0.51
+22,CKB (mean across stations),RFE,CSI,0.50
+22,CKB (mean across stations),TRMM,CSI,0.40
+22,CKB (mean across stations),CMORPH27,CSI,0.30
+22,CKB (mean across stations),CMORPH8,CSI,0.20
+23,UBNRB,ENACTS,CSI,0.89
+23,UBNRB,CHIRPS2,CSI,0.72
+23,UBNRB,IMERG6,CSI,0.75
+23,UBNRB,MSWEP2.2,CSI,0.75
+23,UBNRB,SM2RAIN-ASCAT1.1,CSI,0.58
+23,UBNRB,ENACTS,CSI,0.62
+23,UBNRB,CHIRPS2,CSI,0.10
+23,UBNRB,IMERG6,CSI,0.27
+23,UBNRB,MSWEP2.2,CSI,0.27
+23,UBNRB,SM2RAIN-ASCAT1.1,CSI,0.13
+23,UBNRB,ENACTS,CSI,0.83
+23,UBNRB,CHIRPS2,CSI,0.38
+23,UBNRB,IMERG6,CSI,0.54
+23,UBNRB,MSWEP2.2,CSI,0.53
+23,UBNRB,SM2RAIN-ASCAT1.1,CSI,0.54
+23,UBNRB,ENACTS,CSI,0.90
+23,UBNRB,CHIRPS2,CSI,0.30
+23,UBNRB,IMERG6,CSI,0.50
+23,UBNRB,MSWEP2.2,CSI,0.47
+23,UBNRB,SM2RAIN-ASCAT1.1,CSI,0.04
+23,UBNRB,ENACTS,CSI,0.79
+23,UBNRB,CHIRPS2,CSI,0.02
+23,UBNRB,IMERG6,CSI,0.27
+23,UBNRB,MSWEP2.2,CSI,0.16
+23,UBNRB,SM2RAIN-ASCAT1.1,CSI,0.00
+95,Tropical AEZ,CHIRPS v2.0,CSI,0.60
+95,Tropical AEZ,MSWEP v2.8,CSI,0.66
+95,Tropical AEZ,TAMSAT v3.1,CSI,0.65
+95,Subtropical AEZ,CHIRPS v2.0,CSI,0.75
+95,Subtropical AEZ,MSWEP v2.8,CSI,0.80
+95,Subtropical AEZ,TAMSAT v3.1,CSI,0.77
+95,Temperate AEZ,CHIRPS v2.0,CSI,0.63
+95,Temperate AEZ,MSWEP v2.8,CSI,0.74
+95,Temperate AEZ,TAMSAT v3.1,CSI,0.69
+95,Alpine AEZ,CHIRPS v2.0,CSI,0.31
+95,Alpine AEZ,MSWEP v2.8,CSI,0.56
+95,Alpine AEZ,TAMSAT v3.1,CSI,0.54
+42,Niger,TAMSAT,CSI,0.41
+42,Niger,CMORPH,CSI,0.60
+42,Niger,CHIRPS,CSI,0.52
+42,Niger,ARC2,CSI,0.48
+168,Ethiopia Meki Catchment,CHIRP,CSI,0.49
+168,Ethiopia Katar Catchment,CHIRP,CSI,0.49
+10,Western branch of the East African Rift,TMPA ResV,CSI,0.36
+10,Western branch of the East African Rift,TMPA RT,CSI,0.36
+149,Africa,CHIRPS,CSI,0.39
+149,Africa,TAMSAT,CSI,0.45
+149,Africa,GSMaP,CSI,0.53
+149,Africa,GSMaP_wGauge,CSI,0.54
+149,East Africa,CHIRPS,CSI,0.37
+149,East Africa,TAMSAT,CSI,0.42
+149,East Africa,GSMaP,CSI,0.55
+149,East Africa,GSMaP_wGauge,CSI,0.57
+149,Southern Africa,CHIRPS,CSI,0.38
+149,Southern Africa,TAMSAT,CSI,0.40
+149,Southern Africa,GSMaP,CSI,0.48
+149,Southern Africa,GSMaP_wGauge,CSI,0.50
+149,West Africa,CHIRPS,CSI,0.43
+149,West Africa,TAMSAT,CSI,0.48
+149,West Africa,GSMaP,CSI,0.51
+149,West Africa,GSMaP_wGauge,CSI,0.52
+118,Gumera Watershed,CHIRPS-V2,CSI,0.86
+118,Gumera Watershed,TAMSAT-V3.1,CSI,0.87
+118,Gumera Watershed,PERSIANN-CDR,CSI,0.88
+20,Ethiopia Lake Ziway Basin - Ketar,CFSR,CSI,0.69
+20,Ethiopia Lake Ziway Basin - Ketar,PERSIANN-CDR,CSI,0.67
+20,Ethiopia Lake Ziway Basin - Ketar,CHIRPS,CSI,0.59
+20,Ethiopia Lake Ziway Basin - Ketar,TRMM-3B42V7,CSI,0.60
+20,Ethiopia Lake Ziway Basin - Meki,CFSR,CSI,0.62
+20,Ethiopia Lake Ziway Basin - Meki,PERSIANN-CDR,CSI,0.63
+20,Ethiopia Lake Ziway Basin - Meki,CHIRPS,CSI,0.57
+20,Ethiopia Lake Ziway Basin - Meki,TRMM-3B42V7,CSI,0.46
