@@ -186,12 +186,6 @@ npm test        # Run tests (if configured)
 
 ---
 
-## 📄 License
-
-You can add a license here (MIT, Apache 2.0, etc.) if you wish.
-
----
-
 ## 👤 Author
 
 - **Abdoulaye Diop**  
