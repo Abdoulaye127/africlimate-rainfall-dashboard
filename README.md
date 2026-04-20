@@ -1,70 +1,198 @@
-# Getting Started with Create React App
+# AfriClimate Rainfall Products Performance Dashboard
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project is an interactive **React** dashboard for evaluating the performance of satellite-based rainfall products over **Africa**.  
+It uses data from a systematic review (1,299 records, 145 products, 18 countries) and provides maps, charts, and tables for exploring product performance.
 
-## Available Scripts
+---
 
-In the project directory, you can run:
+## ✨ Main Features
 
-### `npm start`
+- Summary cards for:
+  - Total records
+  - Number of products
+  - Number of countries
+  - Number of filtered records
+  - Current performance metric
+- Filter panel:
+  - Multiple performance metrics (CC, RMSE, MAE, FAR, etc.)
+  - Product filter
+  - Country/Region filter
+  - Text search (products, locations, countries)
+- Interactive map of Africa:
+  - Countries coloured by average performance
+  - Tooltips with metric values
+  - Click a country to filter all charts and the table
+- Charts:
+  - **Top 10 products** bar chart (supports multiple metrics)
+  - **Country data distribution** bar chart
+- Detailed data table:
+  - Paginated, sortable view of filtered records
+- Export options:
+  - Export filtered data to CSV
+  - Export map and charts as PNG images
+- Light / dark mode toggle
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+---
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## 🧱 Tech Stack
 
-### `npm test`
+- **React** (Create React App / Vite-style structure)
+- **Recharts** – charts and visualizations
+- **React-Leaflet + Leaflet** – interactive map of Africa
+- **Tailwind CSS** – styling
+- **chroma-js** – colour scales
+- **html2canvas** – export charts/map as PNG
+- Custom React hooks:
+  - `useDarkMode`
+  - `useRainfallData`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+---
 
-### `npm run build`
+## 📁 Project Structure (simplified)
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+```text
+public/
+  data/
+    Systematic_Review.csv      # Main dataset from the systematic review
+    africa_country.geojson     # Africa country boundaries for the map
+    logo.jpeg                  # AfriClimate logo
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+src/
+  assets/
+    logo.jpeg
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+  components/
+    Header.jsx / Header.js     # Top navigation and branding
+    Footer.jsx / Footer.js     # Footer with links & contact
+    ChartContainer.jsx         # Layout for charts
+    RainfallTable.jsx          # Paginated detailed data table
+    SearchBar.jsx              # Search input
+    Loader.jsx                 # Loading indicator
 
-### `npm run eject`
+  hooks/
+    useDarkMode.js             # Dark mode hook
+    useRainfallData.js         # Data loading + parsing logic
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+  pages/
+    Dashboard.jsx              # Main dashboard page (map, charts, table)
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+  data/
+    Systematic_Review.csv      # Optional copy for development
+    africa_country.geojson
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+  utils/
+    parseCSV.js                # CSV parsing helper
+    formatData.js              # Helpers to shape/aggregate the data
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+  App.js / main.jsx            # App entry and routing
+  styles/global.css            # Global styles
+```
 
-## Learn More
+---
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+## 🚀 Getting Started
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+### 1. Prerequisites
 
-### Code Splitting
+- Node.js and npm installed  
+  You can download Node.js from: https://nodejs.org
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+Check versions:
 
-### Analyzing the Bundle Size
+```bash
+node -v
+npm -v
+```
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+---
 
-### Making a Progressive Web App
+### 2. Clone the repository
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+```bash
+git clone https://github.com/Abdoulaye127/africlimate-rainfall-dashboard.git
+cd africlimate-rainfall-dashboard
+```
 
-### Advanced Configuration
+---
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+### 3. Install dependencies
 
-### Deployment
+```bash
+npm install
+```
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+This reads `package.json` and installs all required libraries.
 
-### `npm run build` fails to minify
+---
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+### 4. Run the app in development mode
+
+```bash
+npm start
+```
+
+The app will start on:
+
+```text
+http://localhost:3000
+```
+
+If the browser does not open automatically, open it and go to that URL.
+
+---
+
+## 📊 Data Files
+
+The dashboard expects the following files in `public/data/`:
+
+- `Systematic_Review.csv`
+- `africa_country.geojson`
+- `logo.jpeg` (or update the paths in the code if you change this)
+
+The app loads these via `fetch('/data/...')`, so the relative paths are important.
+
+---
+
+## 🧮 How the Dashboard Works (High Level)
+
+1. **Data loading**  
+   - `useRainfallData` fetches and parses `Systematic_Review.csv`.
+   - Country names are inferred from the `Location` field (Ethiopia, Ghana, etc.) or marked as "Regional" for Africa-wide studies.
+
+2. **Filtering & aggregation**  
+   - Filters by metric, product, country, and search text.
+   - Aggregates averages per product and per country for the selected metric(s).
+
+3. **Visualization**  
+   - Map: colour-coded average performance by country using `chroma-js`.
+   - Charts: Recharts bar charts for top 10 products and country distributions.
+   - Table: paginated list of individual records.
+
+4. **Export**  
+   - CSV: builds a CSV string from the filtered data and downloads it.
+   - PNG: uses `html2canvas` to capture the map/charts as images.
+
+---
+
+## 🧪 Scripts
+
+Common npm scripts:
+
+```bash
+npm start       # Run development server
+npm run build   # Build for production
+npm test        # Run tests (if configured)
+```
+
+---
+
+## 📄 License
+
+You can add a license here (MIT, Apache 2.0, etc.) if you wish.
+
+---
+
+## 👤 Author
+
+- **Abdoulaye Diop**  
+  AfriClimate AI - Rainfall Products Performance Dashboard
